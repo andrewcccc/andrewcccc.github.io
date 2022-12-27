@@ -15,7 +15,7 @@ The goal of this project was to build logistic regression and multiclass regress
 * Implemented LASSO feature selection functions
 * Evuluate the logistic regression and multiclass regression models KNN models 
 
-The project report can be found [here]<a href="andrewcccc.github.io/folder/assignment2_group_47.pdf" target="_blank">PDF.</a>
+The project report can be found <a href="andrewcccc.github.io/folder/assignment2_group_47.pdf" target="_blank">here.</a>
 
 
 _Project 3:_ 
