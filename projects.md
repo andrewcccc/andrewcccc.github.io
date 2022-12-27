@@ -9,8 +9,8 @@ McGill University (September 2022 - December 2022)
 Project 1: Getting Started with Machine Learning 
 
 The goal of this project is to build K Nearest Neighbour(KNN) and Decision Tree (DT) models on two health datasets and comapre the model performance
-*
-
+* Implemented KNN feature selection function based on linear coefficient
+* Contributed the model evulation, such as AUROC, of the two models
 
 The project report can be found [here](https://andrewcccc.github.io/assignment1_group_47.pdf)
 
@@ -19,7 +19,7 @@ Project 2: Classification of Textual Data
 
 The goal of this project was to build logistic regression and multiclass regression models and compare them to a KNN model on two textual datasets (IMDb and 20 Newsgroup).
 * Implemented LASSO feature selection functions
-* Evaluate the logistic regression and multiclass regression models KNN models 
+* Evaluated the logistic regression and multiclass regression models KNN models 
 
 The project report can be found [here](https://andrewcccc.github.io/assignment2_group_47.pdf)
 
