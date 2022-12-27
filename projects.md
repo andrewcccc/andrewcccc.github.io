@@ -25,7 +25,7 @@ Project 3: Classification of Image Data
 The goal of this project was to build a multilayer perceptron (MLP) and CNN model to classify image data.
 * Implemented CNN using Keras library 
 * Contributed to the hyper-parameters fine tuning of L2 regularization
-* Investigated the effects of test accuracy using different activiation functions 
+* Investigated the effects of test accuracy using different network depth, width, and activiation functions 
 
 The project report can be found [here](https://andrewcccc.github.io/assignment3_group_47.pdf)
 
