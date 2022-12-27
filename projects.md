@@ -6,16 +6,16 @@ title: "Projects"
 # COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
 
-_Project 1:_
+Project 1:
 
 
-_Project 2: Classification of Textual Data_
+Project 2: Classification of Textual Data
 
 The goal of this project was to build logistic regression and multiclass regression models and compare against KNN model on two textual datasets (IMDb and 20 Newsgroup).
 * Implemented LASSO feature selection functions
 * Evuluate the logistic regression and multiclass regression models KNN models 
 
-The project report can be found here.
+The project report can be found [here]<a href="andrewcccc.github.io/folder/assignment2_group_47.pdf" target="_blank">PDF.</a>
 
 
 _Project 3:_ 
