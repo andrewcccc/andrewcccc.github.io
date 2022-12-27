@@ -17,6 +17,7 @@ The goal of this project was to build logistic regression and multiclass regress
 
 The project report can be found <a href="andrewcccc.github.io/blob/master/assignment2_group_47.pdf" type="application/pdf">here.</a>
 
+<embed src="https://andrewcccc.github.io/blob/master/assignment2_group_47.pdf" type="application/pdf" />
 
 _Project 3:_ 
 
