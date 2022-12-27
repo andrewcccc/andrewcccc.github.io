@@ -6,7 +6,10 @@ title: "Projects"
 # COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
 
-Project 1:
+Project 1: Getting Started with Machine Learning 
+
+The goal of this project is to build K Nearest Neighbour(KNN) and Decision Tree (DT) models on two health datasets and comapre the model performance
+*
 
 
 The project report can be found [here](https://andrewcccc.github.io/assignment1_group_47.pdf)
