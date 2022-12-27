@@ -19,6 +19,7 @@ The project report can be found [here](https://github.com/andrewcccc/andrewcccc.
 
 <!-- <a href="pdfs/assignment2_group_47.pdf" type="application/pdf">here.</a> -->
 
+<a href="pdfs/assignment2_group_47.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 _Project 3:_ 
 
