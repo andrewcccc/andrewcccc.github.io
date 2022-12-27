@@ -13,3 +13,9 @@ Project 2:
 
 
 Project 3: 
+
+
+# ECE Capstone Project 
+University of Alberta (September 2020 - May 2021)
+
+
