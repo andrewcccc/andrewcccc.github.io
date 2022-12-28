@@ -33,4 +33,5 @@ The goal of this project was to build a multilayer perceptron (MLP) and CNN mode
 # ECE Capstone Project 
 University of Alberta (September 2020 - May 2021)
 
+The project can be found in [here](https://github.com/andrewcccc/Greenhouse)
 
