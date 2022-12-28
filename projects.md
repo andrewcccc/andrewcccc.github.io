@@ -55,7 +55,7 @@ The numerical sensor data view:
 
 The grpahical data view:
 
-<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/grahpviewcopy.JPG" width="300" height="600" />
+<img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/grahpviewcopy.JPG" width="300" height="600" />
 
 The mushroom image view:
 
