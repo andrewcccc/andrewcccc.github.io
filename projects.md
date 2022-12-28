@@ -50,13 +50,13 @@ Screenshots:
 The numerical sensor data view:
 
 <!-- ![rs](https://github.com/andrewcccc/Greenhouse/blob/master/dataview.jpg) -->
-<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/dataview_copy.JPG" width="300" height="600" />
+<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/dataviewcopy.JPG" width="300" height="600" />
 
 
 The grpahical data view:
 
-<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/grahpview_copy.JPG" width="300" height="600" />
+<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/grahpviewcopy.JPG" width="300" height="600" />
 
 The mushroom image view:
 
-<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/mushroom_growth_copy.PNG" width="300" height="600" />
+<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/mushroomgrowthcopy.PNG" width="300" height="600" />
