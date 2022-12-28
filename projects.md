@@ -59,4 +59,4 @@ The grpahical data view:
 
 The mushroom image view:
 
-<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/mushroomgrowthcopy.PNG" width="300" height="600" />
+<img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/mushroomgrowthcopy.PNG" width="300" height="600" />
