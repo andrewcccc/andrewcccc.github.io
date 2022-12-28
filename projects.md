@@ -49,9 +49,9 @@ Screenshots:
 
 The numerical sensor data view:
 
-<!-- ![rs](https://github.com/andrewcccc/Greenhouse/blob/master/dataview.jpg) -->
+![rs](https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/dataviewcopy.JPG)
 <!-- <img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/dataviewcopy.JPG" width="300" height="600" /> -->
-<img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/dataviewcopy.JPG" width="300" height="600" />
+<!-- <img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/dataviewcopy.JPG" width="300" height="600" /> -->
 
 The grpahical data view:
 
