@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 
-# COMP551 Applied Machine Learning Projects 
+## COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
 
 Project 1: Getting Started with Machine Learning 
@@ -30,7 +30,7 @@ The goal of this project was to build a multilayer perceptron (MLP) and CNN mode
 * Investigated the effects of test accuracy using different network depth, width, and activation functions 
 
 
-# ECE Capstone Project 
+## ECE Capstone Project 
 University of Alberta (September 2020 - May 2021)
 
 The capstone project was about the development of a mini smart greenhouse. The goal was to optimize plant growth conditions and energy consumption using humidity, temperature and current sensors, a camera module, and a smartphone. The project can be found in [here](https://github.com/andrewcccc/Greenhouse)
