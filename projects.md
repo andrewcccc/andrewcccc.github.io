@@ -33,15 +33,15 @@ The goal of this project was to build a multilayer perceptron (MLP) and CNN mode
 ## ECE Capstone Project 
 University of Alberta (September 2020 - May 2021)
 
-The capstone project was about the development of a mini smart greenhouse. The goal was to optimize plant growth conditions and energy consumption using humidity, temperature and current sensors, a camera module, and a smartphone. The project can be found in [here](https://github.com/andrewcccc/Greenhouse)
+Objective: The goal of this project is to address this need with the development of an integrated mini production facility equipped with sensors, controllers and actuators that features both a monitoring-reporting system and an artificial intelligence based control-decision-making system to optimize conditions for plant growth and the overall energy cost.
 
-I designed and developed an Android mobile application to retrieve our sensor data and mushroom images for monitoring the conditions of our mushrooms in the greenhouse.
+I designed and developed an Android mobile application to retrieve our sensor data and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found in [here](https://github.com/andrewcccc/Greenhouse).
 
 The app was built in Andorid Studio programming in Java.
 
 Hightlights: 
 * Used Retrofit API to retrieve JSON sensor data
-* Used MPAndroidChart librsry to retrieve graphical data
+* Used MPAndroidChart librsry to display graphical data
 * Used Picasso library to retrieve image results
 
 
