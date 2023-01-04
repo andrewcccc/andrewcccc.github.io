@@ -60,4 +60,4 @@ Screenshots:
   </tr>
  </table>
 
-## Apple's Facial Movement Tracing (Co-op) Project 
+## Apple's Facial Movement Tracking (Co-op) Project 
