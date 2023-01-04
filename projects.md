@@ -61,3 +61,4 @@ Screenshots:
  </table>
 
 ## Apple's Facial Movement Tracking (Co-op) Project 
+University of Alberta (January 2020 - August 2020)
