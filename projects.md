@@ -47,18 +47,17 @@ Hightlights:
 
 Screenshots:
 
-The numerical sensor data view:
-
-<!-- ![rs](https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/dataviewcopy.JPG) -->
-<!-- <img src="https://github.com/andrewcccc/andrewcccc.github.io/blob/master/dataviewcopy.JPG" width="300" height="600" /> -->
-<img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/dataviewcopy.JPG" width="300" height="600" />
-
-The grpahical data view:
-
-<img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/grahpviewcopy.JPG" width="300" height="600" />
-
-The mushroom image view:
-
-<img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/mushroomgrowthcopy.PNG" width="300" height="600" />
+<table>
+  <tr>
+    <td>The numerical sensor data view</td>
+     <td>The grpahical data view</td>
+     <td>The mushroom image view</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/dataviewcopy.JPG" width="300" height="600" /></td>
+    <td><img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/grahpviewcopy.JPG" width="300" height="600" /></td>
+    <td><img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/mushroomgrowthcopy.PNG" width="300" height="600" /></td>
+  </tr>
+ </table>
 
 ## Apple's Facial Movement Tracing (Co-op) Project 
