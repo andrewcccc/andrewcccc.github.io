@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Welcome!
 ---
 
-## Welcome!
 
 My name is Andrew Chao. I am a graduate student at the [VUA](https://voice.lab.mcgill.ca) lab at McGill University in Montreal, Canada. 
 
