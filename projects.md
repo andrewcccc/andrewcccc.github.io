@@ -67,6 +67,15 @@ Problems: Some commercial tracking systems, such as Optotrak, are used in clinic
 
 Objective: develop a novel mobile application to provide a full-face tracking system during speech production.
 
-Tools: Xcode and an iOS device with TrueDepth camera.
+Tools: Xcode, an iOS device with TrueDepth camera, and ARKit (Apple’s augmented reality platform).
+
+Ideas: The tracking coordinate system is right-handed: 
+- the positive x direct points to the viewer’s right,
+- the positive y direction points to the viewer’s up, 
+- and the positive z direction points toward the viewer.
+
+ The collected data is the positional changes corresponding to the change of the verticies on the face mesh. The units of face coordinate are in meters.
+ 
+![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
 
 
