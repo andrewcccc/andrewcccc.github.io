@@ -65,4 +65,8 @@ University of Alberta (January 2020 - August 2020)
 
 Problems: Some commercial tracking systems, such as Optotrak, are used in clinical research to capture facial motion. These tracking systems have limited availability because they cannot provide remote tracking applications, such as speech therapy and linguistic data gathering.
 
+Objective: develop a novel mobile application to provide a full-face tracking system during speech production.
+
+Tools: Xcode and an iOS device with TrueDepth camera.
+
 
