@@ -78,5 +78,3 @@ The collected data is the positional changes corresponding to the change of the 
  
 ![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
 
-
-
