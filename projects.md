@@ -78,3 +78,8 @@ The collected data is the positional changes corresponding to the change of the 
  
 ![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
 
+A demo: 
+
+<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/61716028/212986866-659ec9e0-a98e-4842-9d23-e34cc201ba2e.gif) -->
+
+<img src="https://user-images.githubusercontent.com/61716028/212986866-659ec9e0-a98e-4842-9d23-e34cc201ba2e.gif" width="350" height="500"/>
