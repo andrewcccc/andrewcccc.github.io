@@ -14,7 +14,7 @@ I am passionate about applying my electrical and software engineering skills to 
 Throughout my projects, I have acquired a diverse set of technical skills: 
 
 
-#### MATLAB/Simulink
+#### MATLAB/Simulink <i class="fab fa-matlab"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
   <div style="width: 85%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
@@ -26,10 +26,10 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 </div>
 80%
 
-#### Java
+#### Java <i class="fab fa-java"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
-  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width:75%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
-80%
+75%
 
 
