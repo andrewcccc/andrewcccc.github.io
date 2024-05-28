@@ -103,7 +103,8 @@ The project used a 3D printed apparatus, designed by Clayton Molter, to maintain
 The following picture shows the complete electrical components in the lab:
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/464870cb-e66a-4cbc-b39a-1d53da69f138)
 
-![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/34d17ef8-531e-425b-aec0-be6d82d39101)
+![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c0289d12-bd8e-4548-b232-a4d083547c3f)
+
 
 
 
