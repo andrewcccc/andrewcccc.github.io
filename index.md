@@ -13,14 +13,15 @@ I am passionate about applying my electrical and software engineering skills to 
 
 Throughout my projects, I have acquired a diverse set of technical skills: 
 
+
+#### MATLAB/Simulink
+<div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
+  <div style="width: 85%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+</div>
+85%
+
 #### Python <i class="fab fa-python"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
-  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
-</div>
-80%
-
-#### Matlab
-<div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
   <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
