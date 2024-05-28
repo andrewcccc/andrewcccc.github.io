@@ -78,8 +78,8 @@ Ideas: The tracking coordinate system is right-handed:
 </table>
 
 **Conclusions**:
-- The mobile application demonstrates a remote and marker-less face tracking system that can collect articulatory data for research and clinical purposes.
-- This mobile application can be expanded its usage in clinical research, such as speech therapy and automated analysis using biofeedback for stuttering.
+- The mobile application demonstrates a remote and markerless face-tracking system that can collect articulatory data for research and clinical purposes.
+- This mobile application can expand its usage in clinical research, such as speech therapy and automated analysis using biofeedback for stuttering.
 - Another future usage of this application is in the facial prosthesis design.  Animating the 3D facial motions, including gestures, can potentially improve soft tissue and its margin fit.
 
 ## Calibration of an Intra-Oral Force Measurement Device (Co-op) Project 
