@@ -10,7 +10,7 @@ University of Alberta (January 2020 - August 2020)
 
 **Project background:** 
 - 3D face tracking is a clinical tool which can provide significant information on facial, jaw, and lip motions. 
-- The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis(ALS).
+- The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis (ALS).
 - Previous works have also shown that video-based analysis can help early diagnosis and disease progression in patients with ALS.
 
 
