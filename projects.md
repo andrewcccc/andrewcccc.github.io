@@ -98,13 +98,16 @@ Ideas: The tracking coordinate system is right-handed:
 
 <table>
   <tr>
-    <th>![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/51cd855c-b28a-4b0b-860b-636083f01a69) </th>
-    <td> - The projected face mesh moves in real time corresponding to the user’s face movement.
-         - It captures both video (60fps) and audio (44.1kHz) recordings during the speech task. 
-         - The bottom part of the screen contains 3 control buttons: 1. Start 2. Change 3. Stop
+    <th> ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/e0bc94e3-55ad-48c5-8327-ace69896b9de) </th>
+    <td> 
+            <ul>
+        <li>The projected face mesh moves in real time corresponding to the user’s face movement.</li>
+        <li> It captures both video (60fps) and audio (44.1kHz) recordings during the speech task. </li>
+        <li> The bottom part of the screen contains 3 control buttons: 1. Start 2. Change 3. Stop
           1. Start button: Start capturing the video and audio of the experiment 
           2. Change button: Allows the user to read the target sentence at their own pace and change to the next sentence 
-          3. Stop button: Stop recording the video and audio and save the position data and recordings locally on the device.
+          3. Stop button: Stop recording the video and audio and save the position data and recordings locally on the device. </li>
+      </ul>
 
 
 </td>
