@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My school Projects!
+title: My School Projects!
 ---
 
 
