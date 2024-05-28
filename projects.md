@@ -124,16 +124,13 @@ Ideas: The tracking coordinate system is right-handed:
 <table>
   <tr>
     <td>
-![IMG-1043-ezgif com-video-to-gif-converter](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/5cdae747-a085-408a-b776-eef0f0e3b356)
+      <img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/5cdae747-a085-408a-b776-eef0f0e3b356" alt="GIF">
     </td>
     <td>
-      <ul>
- <img width="594" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/625ecefd-08f6-4ee3-863f-80fcc831e2a0">
-      </ul>
+      <img width="594" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/625ecefd-08f6-4ee3-863f-80fcc831e2a0">
     </td>
   </tr>
 </table>
-
 
 
 
