@@ -13,6 +13,7 @@ The goal of this project is to build K Nearest Neighbour(KNN) and Decision Tree 
 * Implemented KNN feature selection function based on linear coefficient
 * Contributed the model evulation, such as AUROC, of the two models
 
+**Garde: A**
 
 Project 2: Classification of Textual Data
 
@@ -20,6 +21,7 @@ The goal of this project was to build logistic regression and multiclass regress
 * Implemented LASSO feature selection functions
 * Evaluated the logistic regression and multiclass regression models w.r.t KNN models 
 
+**Garde: A**
 
 Project 3: Classification of Image Data
 
@@ -28,6 +30,8 @@ The goal of this project was to build a multilayer perceptron (MLP) and CNN mode
 * Implemented CNN using Keras library 
 * Contributed to the hyper-parameters fine tuning of L2 regularization
 * Investigated the effects of test accuracy using different network depth, width, and activation functions 
+
+**Garde: A**
 
 
 ## ECE Capstone Project 
