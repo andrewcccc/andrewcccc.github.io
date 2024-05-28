@@ -13,6 +13,7 @@ I am passionate about applying my electrical and software engineering skills to 
 
 Throughout my projects, I have acquired a diverse set of technical skills: 
 
+### Programming
 
 #### MATLAB/Simulink <i class="fab fa-matlab"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
