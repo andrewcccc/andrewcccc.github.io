@@ -22,7 +22,7 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 #### Python <i class="fab fa-python"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
-  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
 
@@ -37,13 +37,13 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 #### Google Cloud Services 
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
-  <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
 
 #### TensorFlow/PyTorch 
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
-  <div style="width: 80%; background-color: #092e20; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
 
