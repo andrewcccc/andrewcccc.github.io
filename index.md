@@ -38,11 +38,11 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 #### Google Cloud Services <i class="fab fa-google"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
-  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 90%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
-80%
+90%
 
-#### TensorFlow/PyTorch ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg) ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
+#### TensorFlow ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg) 
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
   <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
 </div>
