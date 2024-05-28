@@ -90,10 +90,13 @@ Tools: Xcode, an iOS device with TrueDepth camera, and ARKit (Apple’s augmente
 Ideas: The tracking coordinate system is right-handed: 
 - the positive x direct points to the viewer’s right,
 - the positive y direction points to the viewer’s up, 
-- the positive z direction points toward the viewer.
+- the positive z direction points toward the viewer,
 - The collected data is the positional changes corresponding to the change of the verticies on the face mesh. The units of face coordinate are in meters. The projected face mesh moves in real time corresponding to the user’s face movement.
  
 ![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
+
+
+![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/51cd855c-b28a-4b0b-860b-636083f01a69)
 
 A demo: 
 
