@@ -4,8 +4,7 @@ title: Welcome!
 ---
 
 
-My name is Andrew Chao. I completed my Electrical Engineering (Co-op) bachelor's degree at the University of Alberta.
+My name is **Andrew Chao**. I completed my Electrical Engineering (Co-op) bachelor's degree at the University of Alberta and my Master's with focus on mobile app development, machine learning and cloud services.
 
-I am currently a master's student at the [VUA](https://voice.lab.mcgill.ca) lab at McGill University in Montreal, Canada. I am supervised by Prof. Nicole Li-Jessen. My master's thesis is: A Usability Study of a Mobile Application for Monitoring Upper Airway Health
+I am passionate about applyig my electrical and software engineering skills to innovate and make better products to enhance user expereince. With a strong academic background and practical experience, I strive to create innovative solutions that solve real-world problems and drive positive change.
 
-I am interested in mobile app development and machine learning. 
