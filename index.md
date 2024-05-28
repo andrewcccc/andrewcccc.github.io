@@ -12,27 +12,20 @@ My technical
 
 #### Python
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
-  <div style="width: 90%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 85%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 85%
 
 #### Matlab
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
-  <div style="width: 75%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
 
 #### Java
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
-  <div style="width: 60%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
 
-### Frameworks and Tools
-
-#### React
-<div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
-  <div style="width: 70%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
-</div>
-70%
 
