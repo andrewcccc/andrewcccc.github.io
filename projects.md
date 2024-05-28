@@ -55,7 +55,7 @@ Screenshots:
 <table>
   <tr>
     <td>The numerical sensor data view</td>
-     <td>The grpahical data view</td>
+     <td>The graphical data view</td>
      <td>The mushroom image view</td>
   </tr>
   <tr>
