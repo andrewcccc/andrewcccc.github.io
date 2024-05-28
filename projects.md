@@ -108,7 +108,7 @@ The following picture shows the complete electrical components in the lab:
 
 **Results:**
 The available pressure range from the wall supply was 1 to 100 psi. Once the user adjusted to the proper pressure for calibration, the user then would place the linear load cell at the hexagonal base and calibrated.
-<img width="400" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/2ac772f3-c77c-4457-97a8-301a58997b20">
+<img width="480" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/2ac772f3-c77c-4457-97a8-301a58997b20">
 
 
 
