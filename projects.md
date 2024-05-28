@@ -132,11 +132,3 @@ Ideas: The tracking coordinate system is right-handed:
   </tr>
 </table>
 
-
-
-
-A demo: 
-
-<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/61716028/212986866-659ec9e0-a98e-4842-9d23-e34cc201ba2e.gif) -->
-
-<img src="https://user-images.githubusercontent.com/61716028/212986866-659ec9e0-a98e-4842-9d23-e34cc201ba2e.gif" width="350" height="500"/>
