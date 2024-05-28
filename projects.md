@@ -4,22 +4,6 @@ title: "Projects"
 ---
 
 
-## Master's Projects 
-McGill University (September 2021 - October 2023)
-
-**Project backogrund:**
-
-
-**Objective:**
-
-
-**Methods:**
-
-
-**Results:**
-
-
-
 ## COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
 
