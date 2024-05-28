@@ -28,7 +28,7 @@ University of Alberta (January 2020 - August 2020)
 
 - The tracking method is markerless (i.e. no attached sensors).  
 
-Tools: Xcode, an iOS device with TrueDepth camera, and ARKit (Apple’s augmented reality platform).
+Tools: Xcode, an iOS device with a TrueDepth camera, and ARKit (Apple’s augmented reality platform).
 
 Ideas: The tracking coordinate system is right-handed: 
 - the positive x direction points to the viewer’s right,
