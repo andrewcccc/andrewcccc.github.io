@@ -96,6 +96,9 @@ Ideas: The tracking coordinate system is right-handed:
  
 ![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
 
+
+**Results**:
+
 <table>
   <tr>
     <td>
