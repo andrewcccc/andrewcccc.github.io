@@ -3,6 +3,23 @@ layout: page
 title: "Projects"
 ---
 
+
+## Master's Projects 
+McGill University (September 2021 - October 2023)
+
+**Project backogrund: **
+
+
+**Objective:**
+
+
+**Methods:**
+
+
+**Results:**
+
+
+
 ## COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
 
@@ -63,6 +80,22 @@ Screenshots:
     <td><img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/mushroomgrowthcopy.PNG" width="300" height="600" /></td>
   </tr>
  </table>
+
+
+## Calibration of an Intra-Oral Force Measurement Device (Co-op) Project 
+University of Alberta  (June 2019 - December 2019)
+
+**Project backogrund:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing and speaking. In addition, patients can lose their sensation around the jaw, which means that patients may not know how hard they are biting or chewing during eating. As a result, patients require a custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions. 
+
+
+**Objective:** Develop a more reliable and feasible intra-oral force measurement method for the calibration of an an oral prosthesis. 
+
+
+**Desgin:**
+
+
+**Results:**
+
 
 ## Apple's Facial Movement Tracking (Co-op) Project 
 University of Alberta (January 2020 - August 2020)
