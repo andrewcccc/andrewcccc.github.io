@@ -91,7 +91,7 @@ University of Alberta  (June 2019 - December 2019)
 **Objective:** Develop a more reliable and feasible intra-oral force measurement method for the calibration of an an oral prosthesis. 
 
 
-**Desgin:**
+**Desgin:** The project places a high priority on quality assurance and quality control.  To recreate a humans’ occlusal force, the prosthesis needs to meet the following specifications: 1) the normal load rate is from 0 to 500 Newton (estimated human bite force range) 2) the maximum load rate without breaking the oral prosthesis is 1000 N (estimated human maximum voluntary bite force) and 3) the lateral force is 50 N (estimated human tongue force). 
 
 
 **Results:**
