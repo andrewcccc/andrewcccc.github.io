@@ -11,6 +11,11 @@ title: Welcome!
       height: 20px;
       vertical-align: middle;
     }
+    .tensorflow-icon {
+      width: 25px;
+      height: 25px;
+      vertical-align: middle;
+    }
   </style>
 </head>
 
@@ -49,7 +54,7 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 </div>
 90%
 
-#### TensorFlow <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" class="custom-icon">
+#### TensorFlow <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" class="tensorflow-icon">
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
   <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
 </div>
