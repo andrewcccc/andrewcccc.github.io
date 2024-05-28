@@ -100,14 +100,23 @@ The project used a 3D printed apparatus, designed by Clayton Molter, to maintain
 
 
 
-Schematic  eletrcial system:
+**Schematic  eletrcial system:**
 - The idea was to use the attached air cylinder to apply force to the oral prosthesis. Regulated air (1-100 PSI) and the available pneumatic cylinder provided a theoretical force range of 7.82-781.95 N; this range should satisfy the desired calibration force range 0-300N (vertical force) and 0-50N (horizontal force).  Piston extension and retraction were remotely controlled using an off-the-shelf solenoid valve, a solid-state relay, and a Nation Instruments Data Acquisition (NI-DAQ) system. In addition, calibration of the pneumatic cylinder was done using a load cell.   
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/b71265b1-40cf-4b88-b60f-2c5c5bd7c0ec)
 
 
+**Finite Element Analysis of the Prosthesis**
+Before calibration procedure and 3D printing the support system, finite element analysis (FEA) simulation was used to predict the static loadings performed on the support system to determine the suitability of the base structure as an object able to withstand the associated forces being presented during measurement using Autodesk Fusion 360. The settings of the following FEA simulation were: 1) applying a 300N vertical force and a 50N horizontal force to the top and lateral surface of the prosthesis prototype respectively 2) selecting acrylic materials for both the structural base and the oral prosthesis prototype (similar to the real oral prosthesis that is made of PMMA) 3) setting a fixed constraint to the bottom surface of the hexagonal base. 
+
+<div style="display: flex; flex-direction: row;">
+<img width="480" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/33339dfd-b125-4466-b4c5-a80b8198bbf7">
+<img width="469" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/9f2b3598-6e56-49cb-b14e-48680a684d47">
+</div>
 
 
-**Results:**
+
+
+
 
 
 ## Apple's Facial Movement Tracking (Co-op) Project 
@@ -143,6 +152,8 @@ Ideas: The tracking coordinate system is right-handed:
 
  
 ![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
+
+
 
 
 **Results**:
