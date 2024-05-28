@@ -124,19 +124,11 @@ Ideas: The tracking coordinate system is right-handed:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/e0bc94e3-55ad-48c5-8327-ace69896b9de" alt="Image">
+![IMG-1043-ezgif com-video-to-gif-converter](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/5cdae747-a085-408a-b776-eef0f0e3b356)
     </td>
     <td>
       <ul>
-        <li>The projected face mesh moves in real time corresponding to the user’s face movement.</li>
-        <li>It captures both video (60fps) and audio (44.1kHz) recordings during the speech task.</li>
-        <li>The bottom part of the screen contains 3 control buttons:
-          <ol>
-            <li>Start button: Start capturing the video and audio of the experiment</li>
-            <li>Change button: Allows the user to read the target sentence at their own pace and change to the next sentence</li>
-            <li>Stop button: Stop recording the video and audio and save the position data and recordings locally on the device.</li>
-          </ol>
-        </li>
+ <img width="594" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/625ecefd-08f6-4ee3-863f-80fcc831e2a0">
       </ul>
     </td>
   </tr>
@@ -144,7 +136,6 @@ Ideas: The tracking coordinate system is right-handed:
 
 
 
-![IMG-1043-ezgif com-video-to-gif-converter](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/5cdae747-a085-408a-b776-eef0f0e3b356)
 
 
 A demo: 
