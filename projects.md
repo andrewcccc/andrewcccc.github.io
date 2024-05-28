@@ -66,9 +66,9 @@ Screenshots:
 University of Alberta (January 2020 - August 2020)
 
 **Project background:** 
--3D face tracking is a clinical tool which can provide significant information on facial, jaw, and lip motions. 
--The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis(ALS).
--Pervious works have also shown that the video-based analysis can help early diagnosis and disease progression in patents with ALS.
+- 3D face tracking is a clinical tool which can provide significant information on facial, jaw, and lip motions. 
+- The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis(ALS).
+- Pervious works have also shown that the video-based analysis can help early diagnosis and disease progression in patents with ALS.
 
 
 **Problems:** Some commercial tracking systems, such as Optotrak, are used in clinical research to capture facial motion. These tracking systems are expensive, and the tracking procedure can be time consuming. These tracking systems have limited availability because they cannot provide remote tracking applications, such as speech therapy and linguistic data gathering.
@@ -77,13 +77,13 @@ University of Alberta (January 2020 - August 2020)
 
 **Design**:
 
--It is developed in Xcode and is available on iOS devices with TrueDepth camera.  
+- It is developed in Xcode and is available on iOS devices with TrueDepth camera.  
 
--The development of this mobile application uses ARKit,  Apple’s augmented reality platform, and the iPhone’s front facing TrueDepth camera. 
+- The development of this mobile application uses ARKit,  Apple’s augmented reality platform, and the iPhone’s front facing TrueDepth camera. 
 
--The mobile application projects an array of infrared dots onto the user’s face and create a geometry face mesh with 1220 verticies, at 60 frames per second (FPS). 
+- The mobile application projects an array of infrared dots onto the user’s face and create a geometry face mesh with 1220 verticies, at 60 frames per second (FPS). 
 
--The tracking method is marker-less (i.e. no attached sensors).  
+- The tracking method is marker-less (i.e. no attached sensors).  
 
 Tools: Xcode, an iOS device with TrueDepth camera, and ARKit (Apple’s augmented reality platform).
 
