@@ -35,7 +35,7 @@ The goal of this project was to build a multilayer perceptron (MLP) and CNN mode
 ## ECE Capstone Project 
 University of Alberta (September 2020 - May 2021)
 
-**Problems:**
+**Problems:** Greenhouse operations in Alberta are often restricted in scale as a consequence of low profit margins arising from high energy costs. Reducing these high costs through the incorporation of greenhouse technology could make greenhouse operation more feasible and common in Alberta. Since careful environmental control is required to ensure a crop’s quality and yield, growers are challenged to have enough knowledge to interpret information provided by the monitoring system and adjust control setpoints accordingly.
 
 **Objective:** The goal of this project is to address this need with the development of an integrated mini production facility equipped with sensors, controllers and actuators that features both a monitoring-reporting system and an artificial intelligence based control-decision-making system to optimize conditions for plant growth and the overall energy cost.
 
