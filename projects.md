@@ -111,7 +111,7 @@ The following picture shows the complete electrical components in the lab:
 
 - Once the user adjusted to the proper pressure for calibration, the user then would place the linear load cell at the hexagonal base and calibrated.
   
-<img width="600" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/4701813b-eb0d-4c47-b344-3a506beda9f8">
+<img width="700" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/4701813b-eb0d-4c47-b344-3a506beda9f8">
 
 
 
