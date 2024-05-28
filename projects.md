@@ -101,7 +101,7 @@ The project used a 3D printed apparatus, designed by Clayton Molter, to maintain
 
 
 Schematic  eletrcial system:
-- The idea was to use the attached air cylinder to apply force to the oral prosthesis. Regulated air (1-100 PSI) and the available pneumatic cylinder provided a theoretical force range of 7.82-781.95 N; this range should satisfy the desired calibration force range 0~300N (vertical force) and 0~50N (horizontal force).  Piston extension and retraction were remotely controlled using an off-the-shelf solenoid valve, a solid-state relay, and a Nation Instruments Data Acquisition (NI-DAQ) system. In addition, calibration of the pneumatic cylinder was done using a load cell.   
+- The idea was to use the attached air cylinder to apply force to the oral prosthesis. Regulated air (1-100 PSI) and the available pneumatic cylinder provided a theoretical force range of 7.82-781.95 N; this range should satisfy the desired calibration force range 0-300N (vertical force) and 0-50N (horizontal force).  Piston extension and retraction were remotely controlled using an off-the-shelf solenoid valve, a solid-state relay, and a Nation Instruments Data Acquisition (NI-DAQ) system. In addition, calibration of the pneumatic cylinder was done using a load cell.   
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/b71265b1-40cf-4b88-b60f-2c5c5bd7c0ec)
 
 
