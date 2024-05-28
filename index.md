@@ -5,6 +5,13 @@ title: Welcome!
 
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
+    .custom-icon {
+      width: 20px;
+      height: 20px;
+      vertical-align: middle;
+    }
+  </style>
 </head>
 
 My name is **Andrew Chao**. I completed my Electrical Engineering (Co-op) bachelor's degree at the University of Alberta and my Master's at McGill where I focus on mobile app development, machine learning and cloud services.
@@ -15,7 +22,7 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 ### Programming
 
-#### MATLAB/Simulink ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)  
+#### MATLAB/Simulink <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" class="custom-icon">
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
   <div style="width: 85%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
@@ -42,7 +49,7 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 </div>
 90%
 
-#### TensorFlow ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg) 
+#### TensorFlow <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" class="custom-icon">
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
   <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
 </div>
