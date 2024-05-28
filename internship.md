@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  My internships at the UofA!
+title:  My Internships at the UofA!
 ---
 
 
