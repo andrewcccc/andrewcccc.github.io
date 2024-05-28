@@ -40,11 +40,11 @@ University of Alberta (September 2020 - May 2021)
 
 **Objective:** The goal of this project is to address this need with the development of an integrated mini-production facility equipped with sensors, controllers and actuators that features both a monitoring-reporting system and an artificial intelligence- based control-decision-making system to optimize conditions for plant growth and the overall energy cost.
 
-**Tasks:** I designed and developed an Android mobile application to retrieve current, humidity, temperature sensor data and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found in [here](https://github.com/andrewcccc/Greenhouse).
+**Tasks:** I designed and developed an Android mobile application to retrieve current, humidity, temperature sensor data and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found [here](https://github.com/andrewcccc/Greenhouse).
 
-The app was built in Andorid Studio programming in Java.
+The app was built in Android Studio programming in Java.
 
-Hightlights: 
+Highlights: 
 * Used Retrofit API to retrieve JSON sensor data
 * Used MPAndroidChart library to display graphical data
 * Used Picasso library to retrieve image results
