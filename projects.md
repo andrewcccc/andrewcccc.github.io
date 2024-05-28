@@ -101,8 +101,6 @@ Ideas: The tracking coordinate system is right-handed:
     <td>
       <img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/e0bc94e3-55ad-48c5-8327-ace69896b9de" alt="Image">
     </td>
-  </tr>
-  <tr>
     <td>
       <ul>
         <li>The projected face mesh moves in real time corresponding to the user’s face movement.</li>
