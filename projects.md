@@ -109,8 +109,8 @@ The project used a 3D printed apparatus, designed by Clayton Molter, to maintain
 - Before calibration procedure and 3D printing the support system, finite element analysis (FEA) simulation was used to predict the static loadings performed on the support system to determine the suitability of the base structure as an object able to withstand the associated forces being presented during measurement using Autodesk Fusion 360. The settings of the following FEA simulation were: 1) applying a 300N vertical force and a 50N horizontal force to the top and lateral surface of the prosthesis prototype respectively 2) selecting acrylic materials for both the structural base and the oral prosthesis prototype (similar to the real oral prosthesis that is made of PMMA) 3) setting a fixed constraint to the bottom surface of the hexagonal base. 
 
 <div style="display: flex; flex-direction: row;">
-<img width="480" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/33339dfd-b125-4466-b4c5-a80b8198bbf7">
-<img width="469" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/9f2b3598-6e56-49cb-b14e-48680a684d47">
+<img width="400" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/33339dfd-b125-4466-b4c5-a80b8198bbf7">
+<img width="400" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/9f2b3598-6e56-49cb-b14e-48680a684d47">
 </div>
 
 
