@@ -8,7 +8,7 @@ My name is **Andrew Chao**. I completed my Electrical Engineering (Co-op) bachel
 
 I am passionate about applying my electrical and software engineering skills to innovate and create better products that enhance user experience. With a strong academic background and practical experience, I strive to develop innovative solutions that solve real-world problems and drive positive change. 
 
-My technical 
+Throughout my projects, I have acquired a diverse set of technical skills: 
 
 #### Python
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
