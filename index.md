@@ -15,7 +15,7 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 ### Programming
 
-#### MATLAB/Simulink <i class="fab fa-matlab"></i>
+#### MATLAB/Simulink ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)  
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
   <div style="width: 85%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
@@ -36,13 +36,13 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 ### Frameworks and Tools
 
-#### Google Cloud Services 
+#### Google Cloud Services <i class="fab fa-google"></i>
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
   <div style="width: 80%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 80%
 
-#### TensorFlow/PyTorch 
+#### TensorFlow/PyTorch ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg) ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px; margin-bottom: 10px;">
   <div style="width: 80%; background-color: #61dafb; height: 20px; border-radius: 25px;"></div>
 </div>
