@@ -101,7 +101,8 @@ The project utilized a 3D-printed apparatus, designed by Clayton Molter (a previ
 
 
 **Schematic Eletrcial System:**
-- The concept involved utilizing the attached air cylinder to exert force on the oral prosthesis. With regulated air pressure (1-100 PSI) and the available pneumatic cylinder, a theoretical force range of 7.82-781.95 N was achievable. This range was intended to meet the desired calibration force range of 0-300N (vertical force) and 0-50N (horizontal force). Remote control of piston extension and retraction was facilitated through LabVIEW, utilizing an off-the-shelf solenoid valve, a solid-state relay, and a National Instruments Data Acquisition (NI-DAQ) system. Additionally, calibration of the pneumatic cylinder was conducted using a load cell. 
+- The concept involved utilizing the attached air cylinder to exert force on the oral prosthesis. With regulated air pressure (1-100 PSI) and the available pneumatic cylinder, a theoretical force range of 7.82-781.95 N was achievable. This range was intended to meet the desired calibration force range of 0-300N (vertical force) and 0-50N (horizontal force). Remote control of piston extension and retraction was facilitated through LabVIEW, utilizing an off-the-shelf solenoid valve, a solid-state relay, and a National Instruments Data Acquisition (NI-DAQ) system. Additionally, calibration of the pneumatic cylinder was conducted using a load cell.
+  
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/b71265b1-40cf-4b88-b60f-2c5c5bd7c0ec)
 
 - To electrically control the extension and retraction of the piston, NI-DAQ USB6210, Crydom DC60S3 relay, and CIC 4V220-08 FT Electric Solenoid were wired using standard solid core wires. The following block diagram displays the electrical wiring connection for the extension of the piston.
