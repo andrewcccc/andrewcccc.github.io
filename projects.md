@@ -68,7 +68,6 @@ Highlights:
 **How does Retrofit API work?**
 - Retrofit is a type-safe HTTP client for Android and Java applications. It simplifies the process of making HTTP requests to web services and processing their responses. Steps are:
 - Interface Definition: Developers define an interface representing the API endpoints they intend to interact with. This interface contains methods annotated with HTTP verbs like @GET, @POST, @PUT, @DELETE, along with relative URL paths and any required parameters.
-- Retrofit Configuration: A Retrofit object is created, specifying the base URL for the API. This base URL typically serves as the root URL shared by all API endpoints.
 
 ```java
 public class Details {
@@ -99,7 +98,44 @@ public class Details {
 }
 ```
 
+- Retrofit Configuration: A Retrofit object is created, specifying the base URL for the API. This base URL typically serves as the root URL shared by all API endpoints.
+```java
+public interface Api {
+    String BASE_URL = "http://192.xxx.x.xx";
+    
+    @GET("Apppi.php")
+    Call<List<Details>> getstatus();
+}
+```
 
+- Retrofit Configuration: A Retrofit object is created, specifying the base URL for the API. This base URL typically serves as the root URL shared by all API endpoints.
+```java
+private void fetchData() {
+    Retrofit retrofit = new Retrofit.Builder()
+            .baseUrl(Api.BASE_URL)
+            .addConverterFactory(GsonConverterFactory.create())
+            .build();
+
+    Api api = retrofit.create(Api.class);
+    Call<List<Details>> call = api.getstatus();
+    call.enqueue(new Callback<List<Details>>() {
+        @Override
+        public void onResponse(Call<List<Details>> call, Response<List<Details>> response) {
+            if (response.isSuccessful() && response.body() != null) {
+                List<Details> adslist = response.body();
+                Details details = adslist.get(0);
+
+                // Use details to update UI...
+                float power = details.getCurrent() * 120;
+                temperaturetxt.setText(details.getTemperature());
+                humiditytxt.setText(details.getHumidity());
+                timestampstxt.setText(details.getTimestamps());
+                currenttxt.setText(String.valueOf(power));
+                heatertxt.setText(details.getHeater());
+                humidifiertxt.setText(details.getHumidifier());
+            }
+        }
+```
 
 Screenshots:
 
