@@ -29,7 +29,7 @@ Throughout my projects, I have acquired a diverse set of technical skills:
 
 #### MATLAB/Simulink <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" class="custom-icon">
 <div style="background-color: #e0e0e0; border-radius: 25px; padding: 3px;">
-  <div style="width: 85%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
+  <div style="width: 90%; background-color: #4caf50; height: 20px; border-radius: 25px;"></div>
 </div>
 90%
 
