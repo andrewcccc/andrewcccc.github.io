@@ -109,7 +109,7 @@ public interface Api {
 }
 ```
 
-- API Call: With Retrofit configured, you can now create an instance of the defined interface using the Retrofit object. This instance acts as a proxy for making API requests. To execute an API call, you simply invoke the methods defined in the interface. Retrofit handles the heavy lifting of making the network request asynchronously and processing the response.
+- API Call: With Retrofit configured, we can now create an instance of the defined interface using the Retrofit object. This instance acts as a proxy for making API requests. To execute an API call, simply invoke the methods defined in the interface. Retrofit handles the heavy lifting of making the network request asynchronously and processing the response.
 
 ```java
 private void fetchData() {
