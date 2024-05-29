@@ -41,11 +41,9 @@ University of Alberta (September 2020 - May 2021) - (Garde: A)
 **Objective:** The goal of this project is to address this need with the development of an integrated mini-production facility equipped with sensors, controllers and actuators that features both a monitoring-reporting system and an artificial intelligence- based control-decision-making system to optimize conditions for plant growth and the overall energy cost.
 
 **Design**:
-- Below shows the overall setup of the project design and the interaction point between the hardware and software
-components. A temperature/humidity dual sensor within the tank enclosure feeds temperature and humidity values into
-the central controller (Rasp Pi) while an infrared (IR) camera module takes and saves pictures of the KOM into the same device. An AC current sensor provides the controller with insight into the system power draw.
-- At the controller side,object detection and analysis is first performed on the recently captured image to measure heights of individual KOM. A combination of historical and current readings of the system temperature and humidity will then be used by the controller to determine any responsive reactions that the heater and/or humidifier will undertake.
-- All system parameters are saved within a database and accessible to the user through the use of an Android application.
+- Below is an overview of the project design and the interaction points between hardware and software components. A temperature/humidity dual sensor within the tank enclosure feeds temperature and humidity values into the central controller (Raspberry Pi), while an infrared (IR) camera module captures and saves pictures of the KOM in the same device. An AC current sensor provides the controller with insights into the system's power draw.
+- On the controller side, object detection and analysis are first performed on the recently captured image to measure the heights of individual KOM. A combination of historical and current readings of the system's temperature and humidity is then used by the controller to determine any responsive actions that the heater and/or humidifier will undertake.
+- All system parameters are saved within a database and can be accessed by the user through an Android application.
 
 ![cachedImage](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/2d900b22-29db-4c77-9a34-b87bcfa448e4)
 
