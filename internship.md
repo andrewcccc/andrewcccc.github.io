@@ -85,13 +85,13 @@ Ideas: The tracking coordinate system is right-handed:
 ## Intra-Oral Force Verification Measurement Device Project 
 University of Alberta  (June 2019 - December 2019)
 
-**Project background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing and speaking. In addition, patients can lose their sensation around the jaw, which means that patients may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions. 
+**Project background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing, and speaking. Additionally, patients can lose sensation around the jaw, meaning they may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions.
 
-**Objective:** Develop a reliable intra-oral force measurement device for the design, fabrication, and verification of an oral prosthesis. 
+**Objective:** Develop a reliable intra-oral force measurement device for the design, fabrication, and verification of an oral prosthesis.
 
-**Design:** The project places a high priority on quality assurance and quality control.  To recreate a human's occlusal force, the prosthesis needs to meet the following specifications: 1) the normal load rate is from 0 to 500 Newton (estimated human bite force range) 2) the maximum load rate without breaking the oral prosthesis is 1000 N (estimated human maximum voluntary bite force) and 3) the lateral force is 50 N (estimated human tongue force). 
+**Design:** The project places a high priority on quality assurance and quality control. To recreate human chewing force, the prosthesis needs to meet the following specifications: 1) the normal load rate is from 0 to 500 Newtons (estimated human bite force range); 2) the maximum load rate without breaking the oral prosthesis is 1000 N (estimated human maximum voluntary bite force); and 3) the lateral force is 50 N (estimated human tongue force).
 
-The project used a 3D-printed apparatus, designed by Clayton Molter, to maintain a consistent calibration procedure. In addition, the 3D printed apparatus consists of an arched jig that contains holes; it can attach an air cylinder at various angles from 0 to 180 degrees at 30-degree intervals for various loadings. 
+The project utilized a 3D-printed apparatus, designed by Clayton Molter (a previous co-op student), to maintain a consistent calibration procedure. Additionally, the 3D-printed apparatus consists of an arched jig that contains holes; it can attach an air cylinder at various angles from 0 to 180 degrees at 30-degree intervals for different loadings.
 
 <div style="display: flex; flex-direction: row;">
   <img width="300" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/81e52cbd-5b87-4bab-b7e7-689dd2b2023d">
@@ -101,7 +101,7 @@ The project used a 3D-printed apparatus, designed by Clayton Molter, to maintain
 
 
 **Schematic Eletrcial System:**
-- The idea was to use the attached air cylinder to apply force to the oral prosthesis. Regulated air (1-100 PSI) and the available pneumatic cylinder provided a theoretical force range of 7.82-781.95 N; this range should satisfy the desired calibration force range of 0-300N (vertical force) and 0-50N (horizontal force). Piston extension and retraction were remotely controlled by LabVIEW with an off-the-shelf solenoid valve, a solid-state relay, and a Nation Instruments Data Acquisition (NI-DAQ) system. In addition, calibration of the pneumatic cylinder was done using a load cell.  
+- The concept involved utilizing the attached air cylinder to exert force on the oral prosthesis. With regulated air pressure (1-100 PSI) and the available pneumatic cylinder, a theoretical force range of 7.82-781.95 N was achievable. This range was intended to meet the desired calibration force range of 0-300N (vertical force) and 0-50N (horizontal force). Remote control of piston extension and retraction was facilitated through LabVIEW, utilizing an off-the-shelf solenoid valve, a solid-state relay, and a National Instruments Data Acquisition (NI-DAQ) system. Additionally, calibration of the pneumatic cylinder was conducted using a load cell. 
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/b71265b1-40cf-4b88-b60f-2c5c5bd7c0ec)
 
 - To electrically control the extension and retraction of the piston, NI-DAQ USB6210, Crydom DC60S3 relay, and CIC 4V220-08 FT Electric Solenoid were wired using standard solid core wires. The following block diagram displays the electrical wiring connection for the extension of the piston.
@@ -109,8 +109,13 @@ The project used a 3D-printed apparatus, designed by Clayton Molter, to maintain
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/d6b1e1c0-6559-47cb-bb76-a54590b26453)
 
 **Finite Element Analysis of the Prosthesis**
-- Before the calibration procedure and 3D print the support system, finite element analysis (FEA) simulation was used to predict the static loadings performed on the support system to determine the suitability of the base structure as an object able to withstand the associated forces being presented during measurement using Autodesk Fusion 360.
-- The settings of the following FEA simulation were: 1) applying a 300N vertical force and a 50N horizontal force to the top and lateral surface of the prosthesis prototype respectively 2) selecting acrylic materials for both the structural base and the oral prosthesis prototype (similar to the real oral prosthesis that is made of PMMA) 3) setting a fixed constraint to the bottom surface of the hexagonal base. 
+- Before conducting the calibration procedure and 3D printing the support system, finite element analysis (FEA) simulation was employed to forecast the static loadings exerted on the support system. This analysis aimed to ascertain the suitability of the base structure to withstand the associated forces encountered during measurement, utilizing Autodesk Fusion 360.
+
+- The parameters for the FEA simulation were as follows:
+
+- Application of a 300N vertical force and a 50N horizontal force to the top and lateral surfaces of the prosthesis prototype, respectively.
+- Selection of acrylic materials for both the structural base and the oral prosthesis prototype, mimicking the composition of real oral prostheses made of PMMA.
+- Imposition of a fixed constraint on the bottom surface of the hexagonal base.
 
 <table>
   <tr>
