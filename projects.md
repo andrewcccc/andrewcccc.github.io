@@ -81,5 +81,3 @@ Screenshots:
     <td><img src="https://raw.githubusercontent.com/andrewcccc/andrewcccc.github.io/master/mushroomgrowthcopy.PNG" width="300" height="600" /></td>
   </tr>
  </table>
-
- **Final Product**
