@@ -47,7 +47,7 @@ Ideas: The tracking coordinate system is right-handed:
 <table>
   <tr>
     <td>
-      <img width="594" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/e0bc94e3-55ad-48c5-8327-ace69896b9de" alt="Image">
+      <img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/e0bc94e3-55ad-48c5-8327-ace69896b9de" alt="Image">
     </td>
     <td>
       <ul>
