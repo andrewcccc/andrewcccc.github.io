@@ -50,14 +50,19 @@ the central controller (Rasp Pi) while an infrared (IR) camera module takes and 
 ![cachedImage](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/2d900b22-29db-4c77-9a34-b87bcfa448e4)
 
 
-**Tasks:** I designed and developed an Android mobile application to retrieve current, humidity, temperature sensor data and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found [here](https://github.com/andrewcccc/Greenhouse).
+**Tasks:** 
+- I designed and developed an Android mobile application to communicate with a MySQL database and retrieve current, humidity, temperature sensor data and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found [here](https://github.com/andrewcccc/Greenhouse).The app was built in Android Studio programming in Java.
+- Below is the workflow:
+  
+  ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/420e831c-8623-4857-9c45-915d218c201b)
 
-The app was built in Android Studio programming in Java.
+
 
 Highlights: 
 * Used Retrofit API to retrieve JSON sensor data
 * Used MPAndroidChart library to display graphical data
 * Used Picasso library to retrieve image results
+* Communicated with MySQL data through PHP
 
 **How does Retrofit API work?**
 
