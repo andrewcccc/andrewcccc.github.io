@@ -109,11 +109,19 @@ The project used a 3D-printed apparatus, designed by Clayton Molter, to maintain
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/d6b1e1c0-6559-47cb-bb76-a54590b26453)
 
 **Finite Element Analysis of the Prosthesis**
-- Before the calibration procedure and 3D print the support system, finite element analysis (FEA) simulation was used to predict the static loadings performed on the support system to determine the suitability of the base structure as an object able to withstand the associated forces being presented during measurement using Autodesk Fusion 360. The settings of the following FEA simulation were: 1) applying a 300N vertical force and a 50N horizontal force to the top and lateral surface of the prosthesis prototype respectively 2) selecting acrylic materials for both the structural base and the oral prosthesis prototype (similar to the real oral prosthesis that is made of PMMA) 3) setting a fixed constraint to the bottom surface of the hexagonal base. 
+- Before the calibration procedure and 3D print the support system, finite element analysis (FEA) simulation was used to predict the static loadings performed on the support system to determine the suitability of the base structure as an object able to withstand the associated forces being presented during measurement using Autodesk Fusion 360.
+- The settings of the following FEA simulation were: 1) applying a 300N vertical force and a 50N horizontal force to the top and lateral surface of the prosthesis prototype respectively 2) selecting acrylic materials for both the structural base and the oral prosthesis prototype (similar to the real oral prosthesis that is made of PMMA) 3) setting a fixed constraint to the bottom surface of the hexagonal base. 
 
-<div style="display: flex; flex-direction: row;">
-<img width="400" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/33339dfd-b125-4466-b4c5-a80b8198bbf7">
-<img width="400" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/9f2b3598-6e56-49cb-b14e-48680a684d47">
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 10px;">
+    <img width="100%" alt="Vertical 300N force simulation acting on the oral prosthesis" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/33339dfd-b125-4466-b4c5-a80b8198bbf7">
+    <p style="text-align: center;">Caption for image 1</p>
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <img width="100%" alt="Horizontal 50N force simulation acting on the oral prosthesis" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/9f2b3598-6e56-49cb-b14e-48680a684d47">
+    <p style="text-align: center;">Caption for image 2</p>
+  </div>
+  <!-- Add more images as needed -->
 </div>
 
 
