@@ -87,7 +87,7 @@ University of Alberta  (June 2019 - December 2019)
 
 **Project background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing and speaking. In addition, patients can lose their sensation around the jaw, which means that patients may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions. 
 
-**Objective:** Develop a more reliable and feasible intra-oral force measurement method for the calibration of an oral prosthesis. 
+**Objective:** Develop a reliable intra-oral force measurement device for the desgin, fabrication, and verification of an oral prosthesis. 
 
 **Design:** The project places a high priority on quality assurance and quality control.  To recreate a human's occlusal force, the prosthesis needs to meet the following specifications: 1) the normal load rate is from 0 to 500 Newton (estimated human bite force range) 2) the maximum load rate without breaking the oral prosthesis is 1000 N (estimated human maximum voluntary bite force) and 3) the lateral force is 50 N (estimated human tongue force). 
 
