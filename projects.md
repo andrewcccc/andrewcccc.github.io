@@ -66,15 +66,19 @@ Highlights:
 * Communicated with the MySQL database through PHP
 
 **How does Retrofit API work?**
-- Retrofit is a type-safe HTTP client for Android and Java applications. It simplifies the process of making HTTP requests to web services and processing their responses. Steps are
+- Retrofit is a type-safe HTTP client for Android and Java applications. It simplifies the process of making HTTP requests to web services and processing their responses. Steps are:
 - Interface Definition: Developers define an interface representing the API endpoints they intend to interact with. This interface contains methods annotated with HTTP verbs like @GET, @POST, @PUT, @DELETE, along with relative URL paths and any required parameters.
 - Retrofit Configuration: A Retrofit object is created, specifying the base URL for the API. This base URL typically serves as the root URL shared by all API endpoints.
 
 ```java
 public class Details {
+    @SerializedName("temperature")
+    @Expose
     private String temperature;
+
+    @SerializedName("humidity")
+    @Expose
     private String humidity;
-    private Float current;
 
     // Getters and Setters
     public String getTemperature() {
@@ -91,14 +95,6 @@ public class Details {
 
     public void setHumidity(String humidity) {
         this.humidity = humidity;
-    }
-
-    public Float getCurrent() {
-        return current;
-    }
-
-    public void setCurrent(Float current) {
-        this.current = current;
     }
 }
 ```
