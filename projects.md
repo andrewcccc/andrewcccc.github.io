@@ -49,7 +49,7 @@ University of Alberta (September 2020 - May 2021) - (Garde: A)
 
 
 **Tasks:** 
--I designed and developed an Android mobile application to communicate with a MySQL database and retrieve current humidity, temperature sensor data, and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found [here](https://github.com/andrewcccc/Greenhouse). The app was built in Android Studio, programmed in Java.
+- I designed and developed an Android mobile application to communicate with a MySQL database and retrieve current humidity, temperature sensor data, and mushroom images for monitoring the conditions of our mushrooms in the greenhouse. The project code for the app can be found [here](https://github.com/andrewcccc/Greenhouse). The app was built in Android Studio, programmed in Java.
 
 - Below is the workflow:
   
