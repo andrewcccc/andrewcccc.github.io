@@ -5,7 +5,7 @@ title:  My Internships at the UofA!
 
 
  
-## Apple's Facial Movement Tracking Project 
+## An iPhone app for the Facial Movement Tracking Project 
 University of Alberta (January 2020 - August 2020). 
 
 **Funding:** Alberta Innovates Summer Research Studentship
