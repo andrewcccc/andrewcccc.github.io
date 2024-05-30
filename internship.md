@@ -24,11 +24,9 @@ University of Alberta (January 2020 - August 2020).
 - Design and Develop a novel mobile application to provide a full-face tracking system during speech production.
 - My contribution involved improving the user interface and data collection methods for clinical use.
 
-**Design**: 
+**Understanding the App and Re-Design**: 
 
-- The development of this mobile application utilized ARKit, Apple’s augmented reality platform, and the iPhone’s front-facing TrueDepth camera. The application projects an array of infrared dots onto the user’s face, creating a geometric face mesh with 1220 vertices, at 60 frames per second (FPS). The tracking method employed was markerless, meaning no attached sensors were required. The application was developed in Xcode and is available on iOS devices equipped with the TrueDepth camera.   
-
-Ideas: The tracking coordinate system is right-handed: 
+The development of this mobile application utilized ARKit, Apple’s augmented reality platform, and the iPhone’s front-facing TrueDepth camera. The application projects an array of infrared dots onto the user’s face, creating a geometric face mesh with 1220 vertices, at 60 frames per second (FPS). The tracking method employed was markerless, meaning no attached sensors were required. The application was developed in Xcode and is available on iOS devices equipped with the TrueDepth camera. The tracking coordinate system is right-handed: 
 - the positive x direction points to the viewer’s right,
 - the positive y direction points to the viewer’s up, 
 - the positive z direction points toward the viewer,
