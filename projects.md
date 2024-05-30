@@ -43,7 +43,7 @@ What I learned:
 
 **Project 3: Classification of Image Data (Garde: A)**
 
-The goal of this project was to build a multilayer perceptron (MLP) and CNN model to classify image data. The project report can be found [here](https://andrewcccc.github.io/assignment3_group_47.pdf).
+The goal of this project was to build a multilayer perceptron (MLP) and CNN model to classify Fashion-MNIST dataset (a collection of fashion-based images). The project report can be found [here](https://andrewcccc.github.io/assignment3_group_47.pdf).
 
 * Implemented CNN using Keras library 
 * Contributed to the hyper-parameters fine-tuning of L2 regularization
