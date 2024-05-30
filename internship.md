@@ -82,7 +82,7 @@ Ideas: The tracking coordinate system is right-handed:
 - This mobile application can expand its usage in clinical research, such as speech therapy and automated analysis using biofeedback for stuttering.
 - Another future usage of this application is in the facial prosthesis design.  Animating the 3D facial motions, including gestures, can potentially improve soft tissue and its margin fit.
 
-## Intra-Oral Force Verification Measurement Device Project 
+## Human Chewing Force Verification Device Project 
 University of Alberta  (June 2019 - December 2019)
 
 **Project background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing, and speaking. Additionally, patients can lose sensation around the jaw, meaning they may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions.
