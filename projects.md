@@ -21,8 +21,8 @@ What I learned:
 
 <table>
   <tr>
-    <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
-   <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c43aa521-06c9-4a60-9cc4-8992a788e069" alt="image"></td>
+    <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
+   <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c43aa521-06c9-4a60-9cc4-8992a788e069" alt="image"></td>
   </tr>
   <tr>
     <td style="text-align: center;">A feature selection example for the Hepatitis dataset</td>
