@@ -15,10 +15,11 @@ University of Alberta (January 2020 - August 2020).
 - The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis (ALS).
 - Previous works have also shown that video-based analysis can help early diagnosis and disease progression in patients with ALS.
 
-
 **Problems:** Some commercial tracking systems, such as Optotrak, are used in clinical research to capture facial motion. These tracking systems are expensive, and the tracking procedure can be time-consuming. These tracking systems have limited availability because they cannot provide remote tracking applications, such as speech therapy and linguistic data gathering.
 
-**Objective:** Develop a novel mobile application to provide a full-face tracking system during speech production.
+**Objective:** 
+- Design and Develop a novel mobile application to provide a full-face tracking system during speech production. - - The project was an extension of Kieran Armstrong's work (who was a Master's student in Dr. Daniel Aalto's lab)
+- My contribution was to improve the user interfaces and data collection method for clinical use.  
 
 **Design**: 
 
