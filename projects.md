@@ -29,10 +29,6 @@ What I learned:
     <td style="text-align: center;">KNN Evaluation</td>
   </tr>
 </table>
-![Screenshot 2024-05-29 at 9 47 50 PM](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c38b49bb-029a-44e1-bc4f-5dbc5cf40db9)
-
-
-![Screenshot 2024-05-29 at 9 47 50 PM](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/8b186889-b354-4523-b195-45443c73d5e0)
 
 
 **Project 2: Classification of Textual Data (Garde: A)**
