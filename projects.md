@@ -14,7 +14,7 @@ The goal of this project is to build K Nearest Neighbour (KNN) and Decision Tree
 
 * Implemented KNN feature selection function based on linear coefficient
 * Contributed to the model  evaluation, such as AUROC, of the two models
-
+  
 What I learned: 
 - Select a pair of important numerical features and evaluate the feature importance by LinearRegression for the KNN model and RandomForestRegressor for the DT model. Both of these built-in functions from sklearn output a score for each feature, and a higher score reflects a greater significance of the feature.
 - For KNN evaluation, K is the hyperparameter. We aim to avoid overfitting (i.e., when the model learns the training data too well) or underfitting (i.e., when the model fails to capture the underlying patterns in the data). A higher AUC (Area Under the Curve) indicates better performance.
@@ -22,7 +22,7 @@ What I learned:
 <table>
   <tr>
     <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
-   <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/8b186889-b354-4523-b195-45443c73d5e0" alt="image"></td>
+   <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/2c66192e-5b33-41e1-bf54-dd9a87d3d69c" alt="image"></td>
   </tr>
   <tr>
     <td style="text-align: center;">A feature selection example for the Hepatitis dataset</td>
