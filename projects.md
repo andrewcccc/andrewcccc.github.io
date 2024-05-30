@@ -22,7 +22,7 @@ What I learned:
 <table>
   <tr>
     <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
-    <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c072fd5e-0f1e-402a-aee9-c485659e0252" alt="image"></td>
+    <td>![Screenshot 2024-05-29 at 9 47 50 PM](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/53acff25-e6d6-44e0-8c20-0b47fcf0173e)</td>
   </tr>
   <tr>
     <td style="text-align: center;">A feature selection example for the Hepatitis dataset</td>
