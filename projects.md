@@ -7,7 +7,7 @@ title: My School Projects!
 ## COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
 
-**Project 1: Getting Started with Machine Learning (Garde: A)**
+**Project 1: Getting Started with Machine Learning (Grade: A)**
 
 The goal of this project is to build K Nearest Neighbour (KNN) and Decision Tree (DT) models on two health datasets (Hepatitis and Diabetic Retinopathy Debrecen Messidor Dataset) and compare the model performance. The project report can be found [here](https://andrewcccc.github.io/assignment1_group_47.pdf).
 
@@ -32,7 +32,7 @@ What I learned:
 
 
 
-**Project 2: Classification of Textual Data (Garde: A)**
+**Project 2: Classification of Textual Data (Grade: A)**
 
 The goal of this project was to build logistic regression and multiclass regression models and compare them to a KNN model on two textual datasets (IMDb and 20 Newsgroup). The project report can be found [here](https://andrewcccc.github.io/assignment2_group_47.pdf).
 
@@ -52,7 +52,7 @@ The goal of this project was to build logistic regression and multiclass regress
 
 What I learned: Z-score is a statistical measure that indicates how many standard deviations a data point is from the mean of a dataset. Before calculating z-scores for feature selection, the features are typically standardized (also known as normalization). This involves transforming each feature such that it has a mean of 0 and a standard deviation of 1. Features with higher absolute z-scores are considered more important.
 
-**Project 3: Classification of Image Data (Garde: A)**
+**Project 3: Classification of Image Data (Grade: A)**
 
 The goal of this project was to build a multilayer perceptron (MLP) and CNN model to classify the Fashion-MNIST dataset (a collection of fashion-based images). The project report can be found [here](https://andrewcccc.github.io/assignment3_group_47.pdf).
 
@@ -70,7 +70,7 @@ L2 regularization term = λ * ∑(wᵢ²)
 
 
 ## ECE Capstone Project 
-University of Alberta (September 2020 - May 2021) - (Garde: A)
+University of Alberta (September 2020 - May 2021) - (Grade: A)
 
 **Problems:** Greenhouse operations in Alberta are often restricted in scale as a consequence of low-profit margins arising from high energy costs. Reducing these high costs through the incorporation of greenhouse technology could make greenhouse operations more feasible and common in Alberta. Since careful environmental control is required to ensure a crop’s quality and yield, growers are challenged to have enough knowledge to interpret the information provided by the monitoring system and adjust control setpoints accordingly.
 
