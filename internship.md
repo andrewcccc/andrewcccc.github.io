@@ -15,17 +15,18 @@ University of Alberta (January 2020 - August 2020).
 - The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis (ALS).
 - Previous works have also shown that video-based analysis can help early diagnosis and disease progression in patients with ALS.
 
-**Problems:** Some commercial tracking systems, such as Optotrak, are used in clinical research to capture facial motion. These tracking systems are expensive, and the tracking procedure can be time-consuming. These tracking systems have limited availability because they cannot provide remote tracking applications, such as speech therapy and linguistic data gathering.
+**Problems:** 
+
+- Some commercial tracking systems, such as Optotrak, are used in clinical research to capture facial motion. These tracking systems are expensive, and the tracking procedure can be time-consuming. These tracking systems have limited availability because they cannot provide remote tracking applications, such as speech therapy and linguistic data gathering.
+- Kieran Armstrong, a Master's student in Dr. Daniel Aalto's lab, who layed out the groud work for an iPhone's facial tracking app. But the app was not ready to be used in clinical settings for two reasons: 1) Data collection method was based on TCP/IP data communication and required an external device (e.g., computer) that can run a Python script 2) the app cannot provide facial exercise for patients. 
 
 **Objective:** 
-- Design and Develop a novel mobile application to provide a full-face tracking system during speech production. - - The project was an extension of Kieran Armstrong's work (who was a Master's student in Dr. Daniel Aalto's lab)
-- My contribution was to improve the user interfaces and data collection method for clinical use.  
+- Design and Develop a novel mobile application to provide a full-face tracking system during speech production.
+- My contribution involved improving the user interface and data collection methods for clinical use.
 
 **Design**: 
 
-- Tools: Xcode, an iOS device with a TrueDepth camera, and ARKit (Apple’s augmented reality platform).
-
-- The development of this mobile application uses ARKit, Apple’s augmented reality platform, and the iPhone’s front-facing TrueDepth camera. The mobile application projects an array of infrared dots onto the user’s face and creates a geometry face mesh with 1220 vertices, at 60 frames per second (FPS). The tracking method is markerless (i.e. no attached sensors).It is developed in Xcode and is available on iOS devices with the TrueDepth camera.   
+- The development of this mobile application utilized ARKit, Apple’s augmented reality platform, and the iPhone’s front-facing TrueDepth camera. The application projects an array of infrared dots onto the user’s face, creating a geometric face mesh with 1220 vertices, at 60 frames per second (FPS). The tracking method employed was markerless, meaning no attached sensors were required. The application was developed in Xcode and is available on iOS devices equipped with the TrueDepth camera.   
 
 Ideas: The tracking coordinate system is right-handed: 
 - the positive x direction points to the viewer’s right,
@@ -37,6 +38,9 @@ Ideas: The tracking coordinate system is right-handed:
 ![image](https://user-images.githubusercontent.com/61716028/210809986-993a6781-9541-4669-be6c-7cfa7469d852.png) [Reference:  Apple’s documentation: ARKit and ARFaceAnchor]
 
 
+- The data collection method was redesigned to save locally on the user's device.
+
+- Worked extensively with researchers and speech-language pathologists to develop target sentences for speech exercises.
 
 
 **Results**:
