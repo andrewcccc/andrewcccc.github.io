@@ -6,7 +6,7 @@ title:  My Internships at the UofA!
 
  
 ## Apple's Facial Movement Tracking Project 
-University of Alberta (January 2020 - August 2020)
+University of Alberta (January 2020 - August 2020). Supported by Alberta Innovates Summer Research Studentship.
 
 **Project background:** 
 - 3D face tracking is a clinical tool which can provide significant information on facial, jaw, and lip motions. 
