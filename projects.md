@@ -69,7 +69,7 @@ L2 regularization term = λ * ∑(wᵢ²)
 ```
 
 
-## ECE Capstone Project 
+## Optimal Energy Management of Mini Greenhouses (ECE Capstone Project) 
 University of Alberta (September 2020 - May 2021) - (Grade: A)
 
 **Problems:** Greenhouse operations in Alberta are often restricted in scale as a consequence of low-profit margins arising from high energy costs. Reducing these high costs through the incorporation of greenhouse technology could make greenhouse operations more feasible and common in Alberta. Since careful environmental control is required to ensure a crop’s quality and yield, growers are challenged to have enough knowledge to interpret the information provided by the monitoring system and adjust control setpoints accordingly.
