@@ -20,7 +20,9 @@ University of Alberta (January 2020 - August 2020).
 
 **Objective:** Develop a novel mobile application to provide a full-face tracking system during speech production.
 
-**Design**: Tools: Xcode, an iOS device with a TrueDepth camera, and ARKit (Apple’s augmented reality platform).
+**Design**: 
+
+- Tools: Xcode, an iOS device with a TrueDepth camera, and ARKit (Apple’s augmented reality platform).
 
 - The development of this mobile application uses ARKit, Apple’s augmented reality platform, and the iPhone’s front-facing TrueDepth camera. The mobile application projects an array of infrared dots onto the user’s face and creates a geometry face mesh with 1220 vertices, at 60 frames per second (FPS). The tracking method is markerless (i.e. no attached sensors).It is developed in Xcode and is available on iOS devices with the TrueDepth camera.   
 
