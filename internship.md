@@ -133,7 +133,7 @@ The following picture shows the complete electrical components in the lab:
   
 <img width="500" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/35fa0de0-3608-4c8d-b424-38896f9248d1">
 
-- In order to fit future oral prostheses into the system, we need to have a support system for it. Design considerations are: 1) the oral prosthesis prototype needed to fit into the hexagonal structure with sufficient height so that the piston could reach the prosthesis at all angles; 2) the location of the support system should be consistent so that it can always provide the same reference calibration result even if the design of the oral prosthesis prototypes is modified; 3) the support system could not be permanently fixed in the hexagonal structure because the linear load cell also needed the space for the calibration procedure.
+- A support system is needed to fit future oral prostheses into the hexagonal structure. Design considerations include: 1) the prosthesis must fit with sufficient height for the piston to reach all angles; 2) the support system location must remain consistent for reliable calibration, even if the prosthesis design changes; 3) the support system must be removable to allow space for the linear load cell calibration.
 
 <table>
   <tr>
@@ -148,9 +148,9 @@ The following picture shows the complete electrical components in the lab:
 
 
 - Before conducting the calibration procedure and 3D printing the support system, finite element analysis (FEA) simulation was employed to forecast the static loadings exerted on the support system. This analysis aimed to ascertain the suitability of the base structure to withstand the associated forces encountered during measurement, utilizing Autodesk Fusion 360. The parameters for the FEA simulation were as follows:
-- Application of a 300N vertical force and a 50N horizontal force to the top and lateral surfaces of the prosthesis prototype, respectively.
-- Selection of acrylic materials for both the structural base and the oral prosthesis prototype, mimicking the composition of real oral prostheses made of PMMA.
-- Imposition of a fixed constraint on the bottom surface of the hexagonal base.
+- Applied a 300N vertical force to the top surface and a 50N horizontal force to the lateral surface of the prosthesis prototype.
+- Selected acrylic materials for both the structural base and the oral prosthesis prototype to mimic real oral prostheses made of PMMA.
+- Imposed a fixed constraint on the bottom surface of the hexagonal base.
 
 <table>
   <tr>
