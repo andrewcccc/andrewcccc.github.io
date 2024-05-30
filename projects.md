@@ -50,7 +50,8 @@ The goal of this project was to build logistic regression and multiclass regress
   </tr>
 </table>
 
-What I learned: Z-score is a statistical measure that indicates how many standard deviations a data point is from the mean of a dataset. Before calculating z-scores for feature selection, the features are typically standardized (also known as normalization). This involves transforming each feature such that it has a mean of 0 and a standard deviation of 1. Features with higher absolute z-scores are considered more important.
+What I learned: 
+- Z-score is a statistical measure that indicates how many standard deviations a data point is from the mean of a dataset. Before calculating z-scores for feature selection, the features are typically standardized (also known as normalization). This involves transforming each feature such that it has a mean of 0 and a standard deviation of 1. Features with higher absolute z-scores are considered more important.
 
 **Project 3: Classification of Image Data (Grade: A)**
 
