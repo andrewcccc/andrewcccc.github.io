@@ -45,13 +45,15 @@ What I learned:
 
 The goal of this project was to build a multilayer perceptron (MLP) and CNN model to classify image data. The project report can be found [here](https://andrewcccc.github.io/assignment3_group_47.pdf).
 
-Datasets:
-
 * Implemented CNN using Keras library 
 * Contributed to the hyper-parameters fine-tuning of L2 regularization
 * Investigated the effects of test accuracy using different network depth, width, and activation functions 
 
-What I learned: 
+What I learned: L2 regularization, aka weight decay, is a technique used in machine learning to prevent overfitting and improve the generalization ability of a model. In the context of neural networks, L2 regularization works by adding a penalty term to the loss function during training. This penalty term is proportional to the squared magnitude of the weights in the network. It is expressed:
+
+```java
+L2 regularization term = λ * ∑(wᵢ²)
+```
 
 
 ## ECE Capstone Project 
