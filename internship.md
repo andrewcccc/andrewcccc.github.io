@@ -79,6 +79,8 @@ Ideas: The tracking coordinate system is right-handed:
 ## Human Chewing Force Measurement and Verification Device Project 
 University of Alberta  (June 2019 - December 2019)
 
+**Funding:** Dean's Research Awards from the UofA Faculty of Engineering
+
 **Project background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing, and speaking. Additionally, patients can lose sensation around the jaw, meaning they may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions.
 
 **Objective:** Develop a reliable intra-oral force measurement device for the design, fabrication, and verification of an oral prosthesis.
