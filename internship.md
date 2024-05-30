@@ -128,10 +128,21 @@ The following picture shows the complete electrical components in the lab:
 <img width="700" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/4701813b-eb0d-4c47-b344-3a506beda9f8">
 
 
-** Support System and Finite Element Analysis for a Prosthesis Protytpe (Additional Task)**
+**Support System and Finite Element Analysis for a Prosthesis Protytpe (Additional Task)**
 - An oral prothesis prototope was desgined by an biomedical engineer and a detenal technologist. We planned to fabricate it and used it in the verification system.
   
 <img width="500" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/35fa0de0-3608-4c8d-b424-38896f9248d1">
+
+- In order to fit future oral prosthesis into the system, we need to have support system for it. Design consierdiations are: : 1) the oral prosthesis prototype needed to fit into the hexagonal structure with sufficient heights so that the piston could reach the prosthesis at all angles 2) the location of the support system should be consistent so that it can always provide with the same reference calibration result even if the design of the oral prosthesis prototypes was modified 3) the support system could not be permanently fixed in the hexagonal structure because the linear load cell also needed the space for calibration procedure.
+
+<table>
+  <tr>
+    <td><img width="469" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/8d379f7d-5d6d-4076-88ba-e8da0c5287be"></td>
+    <td><img width="392" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/709fa671-e15b-4d28-aff4-9352a6b38815"></td>
+  </tr>
+</table>
+
+
 
 
 - Before conducting the calibration procedure and 3D printing the support system, finite element analysis (FEA) simulation was employed to forecast the static loadings exerted on the support system. This analysis aimed to ascertain the suitability of the base structure to withstand the associated forces encountered during measurement, utilizing Autodesk Fusion 360. The parameters for the FEA simulation were as follows:
