@@ -23,7 +23,7 @@ University of Alberta (January 2020 - August 2020).
 <img width="300" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/b8146067-dc5e-460f-9c2e-f268c73aef57">
 
 **Objective:** 
-- Design and develop a novel mobile application to provide a full-face tracking system during speech production.
+- Design and improve the mobile app to provide a full-face tracking system during speech production.
 - My contribution involved improving the user interface and data collection methods for clinical use.
 
 **Understanding the App and Re-Design**: 
