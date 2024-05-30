@@ -128,12 +128,12 @@ The following picture shows the complete electrical components in the lab:
 <img width="700" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/4701813b-eb0d-4c47-b344-3a506beda9f8">
 
 
-**Support System and Finite Element Analysis for a Prosthesis Protytpe (Additional Task)**
-- An oral prothesis prototope was desgined by an biomedical engineer and a detenal technologist. We planned to fabricate it and used it in the verification system.
+**Support System and Finite Element Analysis for a Prosthesis Prototype (Additional Task)**
+- An oral prosthesis prototype was designed by a biomedical engineer and a dental technologist. We planned to fabricate it and use it in the verification system.
   
 <img width="500" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/35fa0de0-3608-4c8d-b424-38896f9248d1">
 
-- In order to fit future oral prosthesis into the system, we need to have support system for it. Design consierdiations are: : 1) the oral prosthesis prototype needed to fit into the hexagonal structure with sufficient heights so that the piston could reach the prosthesis at all angles 2) the location of the support system should be consistent so that it can always provide with the same reference calibration result even if the design of the oral prosthesis prototypes was modified 3) the support system could not be permanently fixed in the hexagonal structure because the linear load cell also needed the space for calibration procedure.
+- In order to fit future oral prostheses into the system, we need to have a support system for it. Design considerations are: 1) the oral prosthesis prototype needed to fit into the hexagonal structure with sufficient height so that the piston could reach the prosthesis at all angles; 2) the location of the support system should be consistent so that it can always provide the same reference calibration result even if the design of the oral prosthesis prototypes is modified; 3) the support system could not be permanently fixed in the hexagonal structure because the linear load cell also needed the space for the calibration procedure.
 
 <table>
   <tr>
@@ -163,7 +163,7 @@ The following picture shows the complete electrical components in the lab:
   </tr>
 </table>
 
-**Note: ** The oral prosthesis prototype deformed slightly when the 300N force applied. Overall, the FEA simulation results demonstrated that the support system could handle the vertical applied force (0-300N) and horizontal applied force (0-50N). 
+**Note:** The oral prosthesis prototype began to deform when the 300N force was applied. Overall, the FEA simulation results demonstrated that the support system could handle the vertical force (0-300N) and the horizontal force (0-50N).
 
 
 
