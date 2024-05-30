@@ -19,14 +19,24 @@ What I learned:
 - Select a pair of important numerical features and evaluate the feature importance by LinearRegression for the KNN model and RandomForestRegressor for the DT model. Both of these built-in functions from sklearn output a score for each feature, and a higher score reflects a greater significance of the feature.
 - For KNN evaluation, K is the hyperparameter. We aim to avoid overfitting (i.e., when the model learns the training data too well) or underfitting (i.e., when the model fails to capture the underlying patterns in the data). A higher AUC (Area Under the Curve) indicates better performance.
 
-![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457)
+<table>
+  <tr>
+    <td>![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457)</td>
+    <td>![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c072fd5e-0f1e-402a-aee9-c485659e0252)
+</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">An feature selection example for the Hepatitis dataset</td>
+    <td style="text-align: center;">KNN Evaluation</td>
+  </tr>
+</table>
 
 
 
-![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c072fd5e-0f1e-402a-aee9-c485659e0252)
 
 
-An example for the Hepatitis dataset:
+
+
 **Project 2: Classification of Textual Data (Garde: A)**
 
 The goal of this project was to build logistic regression and multiclass regression models and compare them to a KNN model on two textual datasets (IMDb and 20 Newsgroup). The project report can be found [here](https://andrewcccc.github.io/assignment2_group_47.pdf).
