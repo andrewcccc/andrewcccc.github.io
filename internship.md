@@ -140,9 +140,11 @@ The following picture shows the complete electrical components in the lab:
     <td><img width="469" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/8d379f7d-5d6d-4076-88ba-e8da0c5287be"></td>
     <td><img width="392" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/709fa671-e15b-4d28-aff4-9352a6b38815"></td>
   </tr>
+  <tr>
+    <td style="text-align: center;">Top view of the support system</td>
+    <td style="text-align: center;">The support system with the oral prosthesis</td>
+  </tr>
 </table>
-
-
 
 
 - Before conducting the calibration procedure and 3D printing the support system, finite element analysis (FEA) simulation was employed to forecast the static loadings exerted on the support system. This analysis aimed to ascertain the suitability of the base structure to withstand the associated forces encountered during measurement, utilizing Autodesk Fusion 360. The parameters for the FEA simulation were as follows:
@@ -160,6 +162,8 @@ The following picture shows the complete electrical components in the lab:
     <td style="text-align: center;">Horizontal 50N force simulation acting on the oral prosthesis</td>
   </tr>
 </table>
+
+**Note: ** The oral prosthesis prototype deformed slightly when the 300N force applied. Overall, the FEA simulation results demonstrated that the support system could handle the vertical applied force (0-300N) and horizontal applied force (0-50N). 
 
 
 
