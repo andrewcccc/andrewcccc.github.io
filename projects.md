@@ -22,13 +22,14 @@ What I learned:
 <table>
   <tr>
     <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
-   <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/raw/main/assets/61716028/8b186889-b354-4523-b195-45443c73d5e0" alt="image"></td>
+   <td><img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/8b186889-b354-4523-b195-45443c73d5e0" alt="image"></td>
   </tr>
   <tr>
     <td style="text-align: center;">A feature selection example for the Hepatitis dataset</td>
     <td style="text-align: center;">KNN Evaluation</td>
   </tr>
 </table>
+
 
 
 **Project 2: Classification of Textual Data (Garde: A)**
