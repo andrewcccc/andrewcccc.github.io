@@ -10,7 +10,7 @@ University of Alberta (January 2020 - August 2020).
 
 **Funding:** Alberta Innovates Summer Research Studentship
 
-**Project background:** 
+**Project Background:** 
 - 3D face tracking is a clinical tool which can provide significant information on facial, jaw, and lip motions. 
 - The analysis of facial, jaw, and lip movements can be used as an early indicator of neurological diseases, such as Parkinson’s and amyotrophic lateral sclerosis (ALS).
 - Previous works have also shown that video-based analysis can help early diagnosis and disease progression in patients with ALS.
@@ -83,7 +83,7 @@ University of Alberta  (June 2019 - December 2019)
 
 **Funding:** Dean's Research Awards from the UofA Faculty of Engineering
 
-**Project background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing, and speaking. Additionally, patients can lose sensation around the jaw, meaning they may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions.
+**Project Background:**  Typically, after jaw reconstruction surgery, patients struggle with chewing, swallowing, and speaking. Additionally, patients can lose sensation around the jaw, meaning they may not know how hard they are biting or chewing while eating. As a result, patients require custom-made oral prosthetics to recover oral functionality. However, the process of making the prosthetic can be challenging due to these personalized conditions.
 
 **Objective:** Develop a reliable intra-oral force measurement device for the design, fabrication, and verification of an oral prosthesis.
 
