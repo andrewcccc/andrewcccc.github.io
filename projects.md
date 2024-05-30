@@ -42,15 +42,13 @@ The goal of this project was to build logistic regression and multiclass regress
 <table>
   <tr>
     <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/a8978a20-ebdd-45e3-a136-b41d739e7f7b" alt="image"></td>
-   <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/assets/61716028/335b52e5-21a0-47e4-a5c8-f0362968626a" alt="image"></td>
+   <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/0ff705d9-3010-485e-b890-a7b25b7ce31f" alt="image"></td>
   </tr>
   <tr>
     <td style="text-align: center;">Z-score selection for IMDb dataset</td>
     <td style="text-align: center;">Heat Map based on the highest weights for the multi-class classifier</td>
   </tr>
 </table>
-
-
 
 What I learned: Z-score is a statistical measure that indicates how many standard deviations a data point is from the mean of a dataset. Before calculating z-scores for feature selection, the features are typically standardized (also known as normalization). This involves transforming each feature such that it has a mean of 0 and a standard deviation of 1. Features with higher absolute z-scores are considered more important or informative for the task at hand. 
 
