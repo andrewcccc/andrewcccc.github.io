@@ -160,11 +160,6 @@ Retrofit retrofit = new Retrofit.Builder()
 
 ```java
 private void fetchData() {
-    Retrofit retrofit = new Retrofit.Builder()
-            .baseUrl(Api.BASE_URL)
-            .addConverterFactory(GsonConverterFactory.create())
-            .build();
-
     Api api = retrofit.create(Api.class);
     Call<List<Details>> call = api.getstatus();
     call.enqueue(new Callback<List<Details>>() {
