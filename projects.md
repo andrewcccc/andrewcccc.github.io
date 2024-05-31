@@ -102,7 +102,8 @@ Highlights:
 
 **How does Retrofit API work?**
 - Retrofit is a type-safe HTTP client for Android and Java applications. It simplifies the process of making HTTP requests to web services and processing their responses. Steps are:
-- Interface Definition: Developers define an interface representing the API endpoints they intend to interact with. This interface contains methods annotated with HTTP verbs like @GET, @POST, @PUT, @DELETE, along with relative URL paths and any required parameters. These methods indicate the desired action to be performed on a resource identified by the given URL.
+
+Data Model: The Details class serves as a data model to represent the structure of JSON responses received from the API. Data models are essential for mapping the JSON data to Java objects, making it easier to work with the response data in the application code.
 
 ```java
 public class Details {
@@ -133,9 +134,9 @@ public class Details {
 }
 ```
 
-- Retrofit Configuration: Retrofit is configured by creating a Retrofit object with the base URL of the API. This base URL serves as the foundation for all API endpoints, allowing Retrofit to construct the complete URL paths for requests.
+- Interface Definition: Developers define an interface representing the API endpoints they intend to interact with. This interface contains methods annotated with HTTP verbs like @GET, @POST, @PUT, @DELETE, along with relative URL paths and any required parameters. These methods indicate the desired action to be performed on a resource identified by the given URL.
 
-```java
+- ```java
 public interface Api {
     String BASE_URL = "http://192.xxx.x.xx";
     
@@ -143,6 +144,18 @@ public interface Api {
     Call<List<Details>> getstatus();
 }
 ```
+
+Retrofit Configuration: Retrofit is configured by creating a Retrofit object with the base URL of the API. This base URL serves as the foundation for all API endpoints, allowing Retrofit to construct the complete URL paths for requests. Additionally, converters like GsonConverterFactory can be added to handle serialization and deserialization of JSON data.
+
+```
+java
+
+Retrofit retrofit = new Retrofit.Builder()
+        .baseUrl(Api.BASE_URL)
+        .addConverterFactory(GsonConverterFactory.create())
+        .build();
+```
+
 
 - API Call: With Retrofit configured, we can now create an instance of the defined interface using the Retrofit object. This instance acts as a proxy for making API requests. To execute an API call, simply invoke the methods defined in the interface. Retrofit handles the heavy lifting of making the network request asynchronously and processing the response.
 
