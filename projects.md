@@ -136,7 +136,7 @@ public class Details {
 
 - Interface Definition: Developers define an interface representing the API endpoints they intend to interact with. This interface contains methods annotated with HTTP verbs like @GET, @POST, @PUT, @DELETE, along with relative URL paths and any required parameters. These methods indicate the desired action to be performed on a resource identified by the given URL.
 
-- ```java
+```java
 public interface Api {
     String BASE_URL = "http://192.xxx.x.xx";
     
