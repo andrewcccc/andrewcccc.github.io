@@ -145,7 +145,7 @@ public interface Api {
 }
 ```
 
-Retrofit Configuration: Retrofit is configured by creating a Retrofit object with the base URL of the API. This base URL serves as the foundation for all API endpoints, allowing Retrofit to construct the complete URL paths for requests. Additionally, converters like GsonConverterFactory can be added to handle serialization and deserialization of JSON data.
+- Retrofit Configuration: Retrofit is configured by creating a Retrofit object with the base URL of the API. This base URL serves as the foundation for all API endpoints, allowing Retrofit to construct the complete URL paths for requests. Additionally, converters like GsonConverterFactory can be added to handle serialization and deserialization of JSON data.
 
 ```java
 
