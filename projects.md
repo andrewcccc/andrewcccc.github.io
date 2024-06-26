@@ -21,8 +21,8 @@ What I learned:
 
 <table>
   <tr>
-    <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
-   <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c43aa521-06c9-4a60-9cc4-8992a788e069" alt="image"></td>
+    <td><img width="600" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/1b279c41-b6f0-41f0-b365-62ab7454b457" alt="image"></td>
+   <td><img width="600" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/c43aa521-06c9-4a60-9cc4-8992a788e069" alt="image"></td>
   </tr>
   <tr>
     <td style="text-align: center;">A feature selection example for the Hepatitis dataset</td>
@@ -41,8 +41,8 @@ The goal of this project was to build logistic regression and multiclass regress
 
 <table>
   <tr>
-    <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/a8978a20-ebdd-45e3-a136-b41d739e7f7b" alt="image"></td>
-   <td><img width="650" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/0ff705d9-3010-485e-b890-a7b25b7ce31f" alt="image"></td>
+    <td><img width="600" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/a8978a20-ebdd-45e3-a136-b41d739e7f7b" alt="image"></td>
+   <td><img width="600" img src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/0ff705d9-3010-485e-b890-a7b25b7ce31f" alt="image"></td>
   </tr>
   <tr>
     <td style="text-align: center;">Z-score selection for IMDb dataset</td>
