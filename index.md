@@ -21,7 +21,7 @@ title: Welcome!
 
 My name is **Andrew Chao**. I completed my Electrical Engineering (Co-op) bachelor's degree at the University of Alberta and my Biomedical Engineering Master's at McGill University.
 
-I am passionate about applying my electrical and software engineering skills to innovate and create better products that enhance user experience. With a strong academic background and practical experience, I strive to develop innovative solutions that solve real-world problems and drive positive change. 
+I am passionate about applying my electrical and software engineering skills to innovate and create better products that enhance user experience. With a strong academic background and practical experience, I strive to provide innovative solutions that solve real-world problems and drive positive change. 
 
 Throughout my projects, I have acquired a diverse set of technical skills: 
 
