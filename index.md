@@ -19,11 +19,11 @@ title: Welcome!
   </style>
 </head>
 
-My name is **Andrew**. I completed my Electrical Engineering (Co-op) bachelor's degree at the University of Alberta and my Biomedical Engineering Master's at McGill University.
+My name is **Andrew**. I completed a bachelor’s degree in Electrical Engineering (Co-op) at the University of Alberta and a Master’s in Biomedical Engineering at McGill University.
 
-I am passionate about applying my electrical and software engineering skills to innovate and design better products that enhance user experience. With a strong academic background and practical experience, I strive to provide innovative solutions that solve real-world problems and drive positive change. 
+I am passionate about using my electrical and software engineering skills to innovate and design products that enhance user experiences. With a strong academic background and hands-on experience, I strive to deliver innovative solutions that address real-world challenges and drive positive change.
 
-Throughout my projects, I have acquired a diverse set of technical skills: 
+Through my projects, I have developed a diverse set of technical skills:
 
 ### Programming
 
