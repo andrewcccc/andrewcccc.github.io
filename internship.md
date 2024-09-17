@@ -185,8 +185,8 @@ The following picture shows the complete electrical components in the lab:
 
 4. Design
 - Apparatus: 3D-printed jig with adjustable air cylinder for consistent force application.
+- Eletrcial System: Solenoid valve, a solid-state relay, and a National Instruments Data Acquisition (NI-DAQ) system.
 - Support System: Removable design for reliable calibration and prosthesis positioning.
 
 6. Verify
 - Verification: FEA and calibration results confirmed the system could apply forces without damaging the prosthesis.
-- Quality Assurance: Ensured compliance with force specifications.
