@@ -32,7 +32,7 @@ McGill University (September 2021 - October 2023)
 
 **Objective:** 
 
-- For this master’s thesis, the research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization, and 2) perform a usability evaluation of the app.
+- The research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization, and 2) perform a usability evaluation of the app.
 
 - Design inputs: user needs a wireless and user-friendly mHealth solutions that provide self-management for symptoms, medication, and action plans.
    
