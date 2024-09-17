@@ -12,13 +12,14 @@ McGill University (September 2021 - October 2023)
 
 **Background:** 
 
-- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Despite the availability of telemonitoring methods, adequate symptom control in asthma and COPD remains a challenge due to the unpredictable nature of exacerbations and nighttime awakenings, which can lead to increased hospitalizations, healthcare costs and mortality.
+- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a common and chronic inflammatory disorder of the airways.This inflammation causes recurrent episodes of coughing, wheezing, breathlessness, and chest tightness. COPD is a heterogeneous lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production and/or exacerbations) due to abnormalities of the airways (bronchitis, bronchiolitis) and/or alveoli (emphysema) that cause persistent, often progressive, airflow obstruction.
 
-- Mobile health (mHealth) apps are software and digital platforms that operate on a smartphone or tablet and can be used to process and view the digital signals obtained from wearable devices 
-- Wearable devices and mHealth app technology can help control asthma and COPD symptoms through continuous real-time monitoring of lifestyle and weather conditions and early detection of exacerbations. Many wearable devices use audio sensing technology to detect audible symptoms (e.g., cough, wheeze etc.) associated with asthma and COPD and smartphones to collect/analyze the audio data.
+- Despite the availability of telemonitoring methods, adequate symptom control in asthma and COPD remains a challenge due to the unpredictable nature of exacerbations and nighttime awakenings, which can lead to increased hospitalizations, healthcare costs and mortality. 
+ 
+- Wearable devices and mobile health (mHealth) technology can help control asthma and COPD symptoms through continuous real-time monitoring of lifestyle and weather conditions and early detection of exacerbations. Many wearable devices use audio sensing technology to detect audible symptoms (e.g., cough, wheeze etc.) associated with asthma and COPD and smartphones to collect/analyze the audio data.
+  
 - However, with wearables that use acoustic microphones, their audio signals carry identifiable speech information and personal privacy becomes a significant concern. In addition, computing capacity on a smartphone alone has shown to be maxed out rapidly with the detection of one single symptom due to the complexity of audio signals.
 - To address the privacy concern, Dr. Li-Jessen’s team has developed a wearable device, namely AIrway, based on the neck surface accelerometer (NSA) technology, to monitor upper airway symptoms. The NSA is a miniaturized sensor placed on the neck surface to detect and transfer the mechanical skin vibrations (transmitted from the vocal folds and vocal tract) to electrical signals. Therefore, instead of collecting microphone-acoustic signals, the NSA captures negligible vocal tract resonance information, which preserves a person’s speech privacy. Furthermore, AIrway’s machine learning algorithms will be allocated in both the wearable device (for symptom event classification) and the smartphone (for exacerbation prediction) to leverage the computing resources.
-- 
 <table>
   <tr>
     <td><img width="600" img src="https://github.com/user-attachments/assets/81f24b49-3750-4e71-97d9-1eec1e547dd2" alt="Project Overview"></td>
@@ -31,18 +32,26 @@ McGill University (September 2021 - October 2023)
 **Objective:** 
 - For this master’s thesis, the research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization, and 2) perform a usability evaluation of the app.
 
-
 **Methods:**
-
-
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/e4b8e4fb-8d5e-4f37-a397-7408ad30910a">
 
 - Desgin and Development: The AIrway app was designed and developed for Android smartphone devices in accordance with Morville’s mobile app design principles and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
 
 - Usability Testing: We recruited 5 app developers (i.e., technical raters) who were Computer Science Ph.D. students or post-doctoral fellows who took at least one mobile app development course or had at least one year of mobile app programming experience to evaluate the AIrway app. These technical raters completed the User Version of the Mobile Application Rating Scale (uMARS) survey, provided open-ended feedback, and responded to the IQVIA items after testing the app. The uMARS survey was designed to assess the app's engagement, functionality, aesthetics, and information quality while the IQVIA items were intended to assess the app's self-management functionality.
+  
+<table>
+  <tr>
+    <td><img width="600" img src="https://github.com/user-attachments/assets/e4b8e4fb-8d5e-4f37-a397-7408ad30910a" alt="Project Overview"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">mHeathl Design and Development phrases</td>
+  </tr>
+</table> 
 
 
 **Results**
+The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score (3.6 out of 5.0) and an IQVIA overall median score (8 out of 11). These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). The open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
+
+<img width="724" alt="Screenshot 2024-09-17 at 3 02 39 PM" src="https://github.com/user-attachments/assets/c2d6e3fa-ce4a-44a4-b91d-ac849469a91c">
 
 
 
