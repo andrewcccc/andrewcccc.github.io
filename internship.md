@@ -84,6 +84,24 @@ The development of this mobile application utilized ARKit, Apple’s augmented r
 - This mobile application can expand its usage in clinical research, such as speech therapy and automated analysis using biofeedback for stuttering.
 - Another future usage of this application is in the facial prosthesis design.  Animating the 3D facial motions, including gestures, can potentially improve soft tissue and its margin fit.
 
+**The project aligns with the DMAIC (Define, Measure, Analyze, Improve, Control) methodology:**
+
+1. Define
+- Objective: Develop a facial movement tracking app for clinical use during speech production, addressing the limitations of existing systems.
+- Problems Identified: High costs, time-consuming processes, lack of remote tracking, reliance on external devices, and lack of facial exercises.
+2. Measure
+- Tools: Utilized ARKit and the iPhone’s TrueDepth camera for 3D face tracking.
+- Data Collection: Measured facial movement using a 1220-vertex mesh at 60 FPS and recorded both audio (44.1kHz) and video.
+3. Analyze
+- System Analysis: Identified that the existing app's TCP/IP communication and external device requirement hindered clinical usability.
+- Feedback: Worked with researchers and speech-language pathologists to analyze the app’s effectiveness in capturing target speech data.
+4. Improve
+- Redesign: Improved the app’s user interface and data collection method to store data locally on the device.
+- New Features: Added speech exercises and streamlined the control buttons for ease of use during speech tasks.
+5. Control
+- Validation: Tested the app to ensure real-time tracking and accurate data capture for clinical research.
+- Future Applications: Highlighted potential for remote speech therapy, biofeedback for stuttering, and facial prosthesis design.
+
 ## Human Chewing Force Measurement and Verification Device Project 
 University of Alberta  (June 2019 - December 2019)
 
