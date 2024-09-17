@@ -12,7 +12,7 @@ McGill University (September 2021 - October 2023)
 
 **Background:** 
 
-- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a chronic inflammatory disorder of the airway that causes recurrent episodes of coughing, wheezing, breathlessness, and chest tightness. COPD is a lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production and/or exacerbations) due to abnormalities of the airways (bronchitis, bronchiolitis) and/or alveoli that cause persistent, often progressive, airflow obstruction.
+- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a chronic inflammatory disorder of the airways that causes recurrent episodes of coughing, wheezing, breathlessness, and chest tightness. COPD is a lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production, and/or exacerbations) due to abnormalities in the airways (e.g., bronchitis, bronchiolitis) and/or alveoli, leading to persistent, often progressive, airflow obstruction.
 
 - Despite the availability of telemonitoring methods, adequate symptom control in asthma and COPD remains a challenge due to the unpredictable nature of exacerbations and nighttime awakenings, which can lead to increased hospitalizations, healthcare costs and mortality. 
  
@@ -34,7 +34,7 @@ McGill University (September 2021 - October 2023)
 
 - The research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization, and 2) perform a usability evaluation of the app.
 
-- Design inputs: user needs a wireless and user-friendly mHealth solutions that provide self-management for symptoms, medication, and action plans.
+- User needs: a wireless and user-friendly mHealth solution that provides self-management for symptoms, medication, and action plans.
    
 
 **Methods:**
@@ -54,7 +54,7 @@ McGill University (September 2021 - October 2023)
   </tr>
 </table> 
 
-- Usability Testing: We recruited 5 app developers (i.e., technical raters) who were Computer Science Ph.D. students or post-doctoral fellows who took at least one mobile app development course or had at least one year of mobile app programming experience to evaluate the AIrway app. These technical raters completed the User Version of the Mobile Application Rating Scale (uMARS) survey, provided open-ended feedback, and responded to the IQVIA items after testing the app. The uMARS survey was designed to assess the app's engagement, functionality, aesthetics, and information quality while the IQVIA items were intended to assess the app's self-management functionality.
+- Usability Testing: We recruited five app developers (i.e., technical raters) who were Computer Science Ph.D. students or post-doctoral fellows with at least one year of mobile app programming experience or who had taken at least one mobile app development course to evaluate the AIrway app. These technical raters completed the User Version of the Mobile Application Rating Scale (uMARS) survey, provided open-ended feedback, and responded to the IQVIA items after testing the app. The uMARS survey was designed to assess the app's engagement, functionality, aesthetics, and information quality while the IQVIA items were intended to assess the app's self-management functionality.
 
 
 **Results:** The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score of 3.6 out of 5.0 and an IQVIA overall median score of 8 out of 11. These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). Open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
