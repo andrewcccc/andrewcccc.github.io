@@ -59,7 +59,7 @@ The results indicate that the AIrway app was easily understandable to individual
     <td><img width="600" img src="https://github.com/user-attachments/assets/ca154dcd-2129-4c4d-9998-cc4358b7b33a" alt="Project Overview"></td>
   </tr>
   <tr>
-    <td style="text-align: center;">1a) Login interface 1b) Register interface 1c) Register interface with filled information    1d) Forgot password prompt.</td>
+    <td style="text-align: center;">1a) Login page1b) Register page 1c) Register page with info. 1d) Forgot password prompt.</td>
   </tr>
 </table> 
 
@@ -73,7 +73,8 @@ The results indicate that the AIrway app was easily understandable to individual
   </tr>
 </table> 
 
-
+**Conclusion:**
+-Overall, the app met the mobile app design principles and development guidelines, achieving appropriate colour contrast, readability, and layout presentations. Furthermore, asthma and COPD diaries, medication profiles, and action plans were developed based on clinically validated guidelines. These steps are essential to meet industrial standards and safeguard the app’s credibility, accessibility, and usability. Future steps include expanding the app’s compatibility to cross-platform frameworks to enhance the app’s accessibility and equity.
 
 
 
