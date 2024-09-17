@@ -51,8 +51,7 @@ McGill University (September 2021 - October 2023)
 </table> 
 
 
-**Results**
-The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score (3.6 out of 5.0) and an IQVIA overall median score (8 out of 11). These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). The open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
+**Results:** The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score of 3.6 out of 5.0 and an IQVIA overall median score of 8 out of 11. These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). Open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
 
 <table>
   <tr>
@@ -73,8 +72,7 @@ The results indicate that the AIrway app was easily understandable to individual
   </tr>
 </table> 
 
-**Conclusion:**
--Overall, the app met the mobile app design principles and development guidelines, achieving appropriate colour contrast, readability, and layout presentations. Furthermore, asthma and COPD diaries, medication profiles, and action plans were developed based on clinically validated guidelines. These steps are essential to meet industrial standards and safeguard the app’s credibility, accessibility, and usability. Future steps include expanding the app’s compatibility to cross-platform frameworks to enhance the app’s accessibility and equity.
+**Conclusion:** The app met mobile app design principles and development guidelines, achieving appropriate color contrast, readability, and layout presentations. Additionally, asthma and COPD diaries, medication profiles, and action plans were developed based on clinically validated guidelines. These steps are essential for meeting industrial standards and ensuring the app’s credibility, accessibility, and usability. Future steps include expanding the app’s compatibility to cross-platform frameworks to enhance accessibility and equity.
 
 
 
