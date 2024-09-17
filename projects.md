@@ -12,7 +12,7 @@ McGill University (September 2021 - October 2023)
 
 **Background:** 
 
-- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a common and chronic inflammatory disorder of the airways.This inflammation causes recurrent episodes of coughing, wheezing, breathlessness, and chest tightness. COPD is a heterogeneous lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production and/or exacerbations) due to abnormalities of the airways (bronchitis, bronchiolitis) and/or alveoli (emphysema) that cause persistent, often progressive, airflow obstruction.
+- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a chronic inflammatory disorder of the airway that causes recurrent episodes of coughing, wheezing, breathlessness, and chest tightness. COPD is a lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production and/or exacerbations) due to abnormalities of the airways (bronchitis, bronchiolitis) and/or alveoli that cause persistent, often progressive, airflow obstruction.
 
 - Despite the availability of telemonitoring methods, adequate symptom control in asthma and COPD remains a challenge due to the unpredictable nature of exacerbations and nighttime awakenings, which can lead to increased hospitalizations, healthcare costs and mortality. 
  
@@ -20,6 +20,7 @@ McGill University (September 2021 - October 2023)
   
 - However, with wearables that use acoustic microphones, their audio signals carry identifiable speech information and personal privacy becomes a significant concern. In addition, computing capacity on a smartphone alone has shown to be maxed out rapidly with the detection of one single symptom due to the complexity of audio signals.
 - To address the privacy concern, Dr. Li-Jessen’s team has developed a wearable device, namely AIrway, based on the neck surface accelerometer (NSA) technology, to monitor upper airway symptoms. The NSA is a miniaturized sensor placed on the neck surface to detect and transfer the mechanical skin vibrations (transmitted from the vocal folds and vocal tract) to electrical signals. Therefore, instead of collecting microphone-acoustic signals, the NSA captures negligible vocal tract resonance information, which preserves a person’s speech privacy. Furthermore, AIrway’s machine learning algorithms will be allocated in both the wearable device (for symptom event classification) and the smartphone (for exacerbation prediction) to leverage the computing resources.
+  
 <table>
   <tr>
     <td><img width="600" img src="https://github.com/user-attachments/assets/81f24b49-3750-4e71-97d9-1eec1e547dd2" alt="Project Overview"></td>
@@ -30,6 +31,8 @@ McGill University (September 2021 - October 2023)
 </table>
 
 **Objective:** 
+- User needs: a wireless mHealth solutions that provide self-management for symptoms, medication, and action plans.
+   
 - For this master’s thesis, the research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization, and 2) perform a usability evaluation of the app.
 
 **Methods:**
@@ -51,7 +54,25 @@ McGill University (September 2021 - October 2023)
 **Results**
 The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score (3.6 out of 5.0) and an IQVIA overall median score (8 out of 11). These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). The open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
 
-<img width="724" alt="Screenshot 2024-09-17 at 3 02 39 PM" src="https://github.com/user-attachments/assets/c2d6e3fa-ce4a-44a4-b91d-ac849469a91c">
+<table>
+  <tr>
+    <td><img width="600" img src="https://github.com/user-attachments/assets/ca154dcd-2129-4c4d-9998-cc4358b7b33a" alt="Project Overview"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">1a) Login interface 1b) Register interface 1c) Register interface with filled information    1d) Forgot password prompt.</td>
+  </tr>
+</table> 
+
+
+<table>
+  <tr>
+    <td><img width="600" img src="https://github.com/user-attachments/assets/c2d6e3fa-ce4a-44a4-b91d-ac849469a91c" alt="Project Overview"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2a) Today interface 2b) Report interface 2c) Profile interface 2d) Help interface.</td>
+  </tr>
+</table> 
+
 
 
 
