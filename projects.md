@@ -39,7 +39,11 @@ McGill University (September 2021 - October 2023)
 
 **Methods:**
 
-- Design outputs: The AIrway app was designed and developed for Android smartphone devices in accordance with mobile app design principles and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
+- The AIrway app was designed and developed for Android smartphone devices in accordance with mobile app design principles and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
+  
+- Color Contrast: We optimized color contrast for app interfaces to improve user accessibility and usability. According to Web Content Accessibility Guidelines (WCAG), text and images should have a contrast ratio of at least 7:1 for AAA compliance.
+ 
+- Literacy Analysis: We used an open-source readability calculator to check the app’s written materials, including the privacy policy, FAQ, and action plans for asthma and COPD. We aimed for a readability level equivalent to grade 9, suitable for most English-educated adults in the U.S.
 
 <table>
   <tr>
@@ -51,8 +55,8 @@ McGill University (September 2021 - October 2023)
 </table> 
 
 - Design Validation (Usability Testing): We recruited 5 app developers (i.e., technical raters) who were Computer Science Ph.D. students or post-doctoral fellows who took at least one mobile app development course or had at least one year of mobile app programming experience to evaluate the AIrway app. These technical raters completed the User Version of the Mobile Application Rating Scale (uMARS) survey, provided open-ended feedback, and responded to the IQVIA items after testing the app. The uMARS survey was designed to assess the app's engagement, functionality, aesthetics, and information quality while the IQVIA items were intended to assess the app's self-management functionality.
-  
 
+  
 
 **Results:** The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score of 3.6 out of 5.0 and an IQVIA overall median score of 8 out of 11. These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). Open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
 
