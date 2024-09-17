@@ -39,7 +39,7 @@ McGill University (September 2021 - October 2023)
 
 **Methods:**
 
-- The AIrway app was designed and developed for Android smartphone devices in accordance with mobile app design principles and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
+- The AIrway app was designed and developed for Android smartphone devices in accordance with industral mobile app design prcoesses and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
   
 - Color Contrast: We optimized color contrast for app interfaces to improve user accessibility and usability. According to Web Content Accessibility Guidelines (WCAG), text and images should have a contrast ratio of at least 7:1 for AAA compliance.
  
@@ -50,7 +50,7 @@ McGill University (September 2021 - October 2023)
     <td><img width="600" img src="https://github.com/user-attachments/assets/e4b8e4fb-8d5e-4f37-a397-7408ad30910a" alt="Project Overview"></td>
   </tr>
   <tr>
-    <td style="text-align: center;">mHealth Design Principles</td>
+    <td style="text-align: center;">mHealth Design Prcoess</td>
   </tr>
 </table> 
 
