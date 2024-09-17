@@ -54,9 +54,8 @@ McGill University (September 2021 - October 2023)
   </tr>
 </table> 
 
-- Design Validation (Usability Testing): We recruited 5 app developers (i.e., technical raters) who were Computer Science Ph.D. students or post-doctoral fellows who took at least one mobile app development course or had at least one year of mobile app programming experience to evaluate the AIrway app. These technical raters completed the User Version of the Mobile Application Rating Scale (uMARS) survey, provided open-ended feedback, and responded to the IQVIA items after testing the app. The uMARS survey was designed to assess the app's engagement, functionality, aesthetics, and information quality while the IQVIA items were intended to assess the app's self-management functionality.
+- Usability Testing: We recruited 5 app developers (i.e., technical raters) who were Computer Science Ph.D. students or post-doctoral fellows who took at least one mobile app development course or had at least one year of mobile app programming experience to evaluate the AIrway app. These technical raters completed the User Version of the Mobile Application Rating Scale (uMARS) survey, provided open-ended feedback, and responded to the IQVIA items after testing the app. The uMARS survey was designed to assess the app's engagement, functionality, aesthetics, and information quality while the IQVIA items were intended to assess the app's self-management functionality.
 
-  
 
 **Results:** The results indicate that the AIrway app was easily understandable to individuals with nine years of formal education. The app received a high uMARS overall mean score of 3.6 out of 5.0 and an IQVIA overall median score of 8 out of 11. These scores align with similar mHealth apps in the literature (MARS: 3.0-4.2 and IQVIA: 6-10). Open-ended feedback suggested incorporating more graphical icons for better user interface display and improving the input field for the password reset function.
 
