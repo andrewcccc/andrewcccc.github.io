@@ -169,23 +169,24 @@ The following picture shows the complete electrical components in the lab:
 
 **Note:** The oral prosthesis prototype began to deform when the 300N force was applied. Overall, the FEA simulation results demonstrated that the support system could handle the vertical force (0-300N) and the horizontal force (0-50N).
 
-**How does the project fit into the DMADV (Define, Measure, Analyze, Design, Verify) methodology? **
+**How does the project fit into the DMADV (Define, Measure, Analyze, Design, Verify) methodology?**
+
 1. Define
--Objective: Develop an intra-oral force measurement device to aid in designing and verifying oral prostheses for post-jaw reconstruction surgery patients.
--Specifications: Force requirements: 0-500N (normal), 1000N (max), 50N (lateral).
+- Objective: Develop an intra-oral force measurement device to aid in designing and verifying oral prostheses for post-jaw reconstruction surgery patients.
+- Specifications: Force requirements: 0-500N (normal), 1000N (max), 50N (lateral).
 
 2. Measure
--System: Calibrated pneumatic cylinder controlled via LabVIEW for precise force application.
--Calibration: Measured vertical and horizontal forces with a load cell.
+- System: Calibrated pneumatic cylinder controlled via LabVIEW for precise force application.
+- Calibration: Measured vertical and horizontal forces with a load cell.
 
 4. Analyze
--FEA Simulation: Predicted deformations under 300N vertical and 50N horizontal forces.
--Force Calculations: Used F = PA to calculate the force range.
+- FEA Simulation: Predicted deformations under 300N vertical and 50N horizontal forces.
+- Force Calculations: Used F = PA to calculate the force range.
 
 4. Design
--Apparatus: 3D-printed jig with adjustable air cylinder for consistent force application.
--Support System: Removable design for reliable calibration and prosthesis positioning.
+- Apparatus: 3D-printed jig with adjustable air cylinder for consistent force application.
+- Support System: Removable design for reliable calibration and prosthesis positioning.
 
 6. Verify
--Verification: FEA and calibration results confirmed the system could apply forces without damaging the prosthesis.
--Quality Assurance: Ensured compliance with force specifications.
+- Verification: FEA and calibration results confirmed the system could apply forces without damaging the prosthesis.
+- Quality Assurance: Ensured compliance with force specifications.
