@@ -17,11 +17,8 @@ McGill University (September 2021 - October 2023)
 - Mobile health (mHealth) apps are software and digital platforms that operate on a smartphone or tablet and can be used to process and view the digital signals obtained from wearable devices 
 - Wearable devices and mHealth app technology can help control asthma and COPD symptoms through continuous real-time monitoring of lifestyle and weather conditions and early detection of exacerbations. Many wearable devices use audio sensing technology to detect audible symptoms (e.g., cough, wheeze etc.) associated with asthma and COPD and smartphones to collect/analyze the audio data.
 - However, with wearables that use acoustic microphones, their audio signals carry identifiable speech information and personal privacy becomes a significant concern. In addition, computing capacity on a smartphone alone has shown to be maxed out rapidly with the detection of one single symptom due to the complexity of audio signals.
-- To address the privacy concern, Dr. Li-Jessen’s team has developed a wearable device, namely AIrway, based on the neck surface accelerometer (NSA) technology, to monitor upper airway symptoms. The NSA is a miniaturized sensor placed on the neck surface to detect and transfer the mechanical skin vibrations (transmitted from the vocal folds and vocal tract) to electrical signals. Therefore, instead of collecting microphone-acoustic signals, the NSA captures negligible vocal tract resonance information, which preserves a person’s speech privacy. Furthermore, AIrway’s machine learning algorithms will be allocated in both the wearable device (for symptom event classification) and the smartphone (for exacerbation prediction) to leverage the computing resources. 
-
-**Objective:** 
-- For this master’s thesis, the research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization (, and 2) perform a usability evaluation of the app.
-
+- To address the privacy concern, Dr. Li-Jessen’s team has developed a wearable device, namely AIrway, based on the neck surface accelerometer (NSA) technology, to monitor upper airway symptoms. The NSA is a miniaturized sensor placed on the neck surface to detect and transfer the mechanical skin vibrations (transmitted from the vocal folds and vocal tract) to electrical signals. Therefore, instead of collecting microphone-acoustic signals, the NSA captures negligible vocal tract resonance information, which preserves a person’s speech privacy. Furthermore, AIrway’s machine learning algorithms will be allocated in both the wearable device (for symptom event classification) and the smartphone (for exacerbation prediction) to leverage the computing resources.
+- 
 <table>
   <tr>
     <td><img width="600" img src="https://github.com/user-attachments/assets/81f24b49-3750-4e71-97d9-1eec1e547dd2" alt="Project Overview"></td>
@@ -30,6 +27,10 @@ McGill University (September 2021 - October 2023)
     <td style="text-align: center;">Project Overview</td>
   </tr>
 </table>
+
+**Objective:** 
+- For this master’s thesis, the research aims are to 1) design and develop a mobile app to support a wearable device for data collection and visualization, and 2) perform a usability evaluation of the app.
+
 
 **Methods:**
 
