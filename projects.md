@@ -39,14 +39,14 @@ McGill University (September 2021 - October 2023)
 
 **Methods:**
 
-- Design outputs: The AIrway app was designed and developed for Android smartphone devices in accordance with Morville’s mobile app design principles and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
+- Design outputs: The AIrway app was designed and developed for Android smartphone devices in accordance with mobile app design principles and clinical guidelines, such as the Global Initiative for Asthma (GINA) and the Global Initiative for Chronic Obstructive Lung Disease (GOLD), to meet the needs of symptom monitoring. The app also complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) to ensure the protection of user information. Essential features include journaling asthma/COPD diaries, utilizing the Google Firestore cloud service for data storage, parsing local weather information, as well as sending medication reminders and action plans.
 
 <table>
   <tr>
     <td><img width="600" img src="https://github.com/user-attachments/assets/e4b8e4fb-8d5e-4f37-a397-7408ad30910a" alt="Project Overview"></td>
   </tr>
   <tr>
-    <td style="text-align: center;">mHealth Design and Development phrases</td>
+    <td style="text-align: center;">mHealth Design Principles</td>
   </tr>
 </table> 
 
