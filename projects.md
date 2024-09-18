@@ -12,7 +12,7 @@ McGill University (September 2021 - October 2023)
 
 **Background:** 
 
-- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a chronic inflammatory disorder of the airways that causes recurrent episodes of coughing, wheezing, breathlessness, and chest tightness. COPD is a lung condition characterized by chronic respiratory symptoms (dyspnea, cough, sputum production, and/or exacerbations) due to abnormalities in the airways (e.g., bronchitis, bronchiolitis) and/or alveoli, leading to persistent, often progressive, airflow obstruction.
+- Asthma and chronic obstructive pulmonary disease (COPD) are highly prevalent chronic respiratory diseases worldwide and in Canada. Asthma is a long-term condition that causes the airways to become inflamed, leading to repeated episodes of coughing, wheezing, difficulty breathing, and chest tightness. COPD is another lung condition that causes ongoing symptoms like shortness of breath, coughing, and mucus buildup due to damage or inflammation in the airways or air sacs in the lungs, which makes it hard to breathe and gets worse over time.
 
 - Despite the availability of telemonitoring methods, adequate symptom control in asthma and COPD remains a challenge due to the unpredictable nature of exacerbations and nighttime awakenings, which can lead to increased hospitalizations, healthcare costs and mortality. 
  
