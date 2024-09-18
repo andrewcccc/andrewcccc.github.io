@@ -187,7 +187,7 @@ The following picture shows the complete electrical components in the lab:
 
 **Note:** The oral prosthesis prototype began to deform when the 300N force was applied. Overall, the FEA simulation results demonstrated that the support system could handle the vertical force (0-300N) and the horizontal force (0-50N).
 
-**How does the project fit into the DMADV (Define, Measure, Analyze, Design, Verify) methodology?**
+**The project fits into the DMADV (Define, Measure, Analyze, Design, Verify) methodology**
 
 1. Define
 - Objective: Develop an intra-oral force measurement device to aid in designing and verifying oral prostheses for post-jaw reconstruction surgery patients.
