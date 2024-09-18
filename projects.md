@@ -81,6 +81,12 @@ McGill University (September 2021 - October 2023)
 **Conclusion:** The app met mobile app design principles and development guidelines, achieving appropriate color contrast, readability, and layout presentations. Additionally, asthma and COPD diaries, medication profiles, and action plans were developed based on clinically validated guidelines. These steps are essential for meeting industrial standards and ensuring the app’s credibility, accessibility, and usability. Future steps include expanding the app’s compatibility to cross-platform frameworks to enhance accessibility and equity.
 
 
+**This project aglins with the DMADV methodology**
+- Define: Identifying the need for a mobile app to monitor respiratory symptoms while addressing privacy concerns.
+- Measure: Assessing user needs, accessibility, and privacy requirements (color contrast, readability, data protection).
+- Analyze: Gathering insights from technical raters to evaluate app functionality and user experience.
+- Design: Creating the app with features like symptom journaling, cloud storage, and medication reminders.
+- Verify: Conducting usability testing to ensure the app meets industry standards and achieves high user ratings.
 
 ## COMP551 Applied Machine Learning Projects 
 McGill University (September 2022 - December 2022)
