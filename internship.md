@@ -18,7 +18,7 @@ University of Alberta (January 2020 - August 2020).
 **Problems:** 
 
 - Some commercial tracking systems, such as Optotrak, are used in clinical research to capture facial motion. These tracking systems are expensive, and the tracking procedure can be time-consuming. These tracking systems have limited availability because they cannot provide remote tracking applications, such as speech therapy and linguistic data gathering.
-- Kieran Armstrong, a Master's student in Dr. Daniel Aalto's lab, laid out the groundwork for an iPhone facial tracking app. However, the app was not yet suitable for clinical settings for two reasons: 1) The data collection method relied on TCP/IP data communication and necessitated an external device (e.g., computer) capable of running a Python script. 2) The app lacked the capability to provide facial exercises for patients. The design was:
+- Kieran Armstrong, a Master's student in Dr. Daniel Aalto's lab, laid out the groundwork for an iPhone facial tracking app. However, the app was not yet suitable for clinical settings for two reasons: 1) The data collection method relied on TCP/IP data communication (app sent data the computer's address on the network) and necessitated an external device (e.g., computer) capable of running a Python script. 2) The app lacked the capability to provide facial exercises for patients. The design was:
 
 <img width="300" alt="image" src="https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/b8146067-dc5e-460f-9c2e-f268c73aef57">
 
