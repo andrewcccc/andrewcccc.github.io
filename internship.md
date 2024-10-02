@@ -131,9 +131,9 @@ The project utilized a 3D-printed apparatus, designed by Clayton Molter (a previ
   
 ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/d6b1e1c0-6559-47cb-bb76-a54590b26453)
 
-- This is a control circuit for an electric solenoid valve using a DC solid-state relay (SSR), a diode, and a National Instruments Data Acquisition (NI-DAQ) device (specifically the NI-DAQ 6210). Here’s a breakdown of the components:
+Below is a control circuit for an electric solenoid valve using a DC solid-state relay (SSR), a diode, and a National Instruments Data Acquisition (NI-DAQ) device (specifically the NI-DAQ 6210). Here’s a breakdown of the components:
 
--Solid-State Relay (DC60S3): The SSR is being used to control the flow of current to the solenoid valve. The relay is actuated by a control signal from the NI-DAQ and switches the 12V DC power to the solenoid valve.
+- Solid-State Relay (DC60S3): The SSR is being used to control the flow of current to the solenoid valve. The relay is actuated by a control signal from the NI-DAQ and switches the 12V DC power to the solenoid valve.
 - Solenoid Valve (CIC 4V220-08 FT): The valve is electrically operated, and this circuit allows the NI-DAQ to control the solenoid valve via the SSR.
 - Diode (1N4007): The diode is placed in parallel with the solenoid to protect the circuit from voltage spikes caused by the inductive load when the solenoid is switched off (known as flyback protection).
 - NI-DAQ 6210: This device is providing the control signals that trigger the solid-state relay, which in turn operates the solenoid valve. 
