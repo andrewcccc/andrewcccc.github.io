@@ -174,7 +174,8 @@ University of Alberta (September 2020 - May 2021) - (Grade: A)
 
 - Below is the workflow:
   
-  ![image](https://github.com/andrewcccc/andrewcccc.github.io/assets/61716028/420e831c-8623-4857-9c45-915d218c201b)
+
+![334936993-420e831c-8623-4857-9c45-915d218c201b](https://github.com/user-attachments/assets/305be3ac-0dd8-4161-8aaa-6d7900f9c17c)
 
 
 
@@ -185,7 +186,7 @@ Highlights:
 * Communicated with the MySQL database through PHP
 
 **How does Retrofit API work?**
-- Retrofit is a type-safe HTTP client for Android and Java applications. It simplifies the process of making HTTP requests to web services and processing their responses. Steps are:
+- Retrofit is a high-level HTTP client library for Android and Java applications. It allows developers to define API endpoints as Java interfaces, then automatically converts JSON responses into Java objects. Retrofit simplifies (constructing HTTP requests, mapping server responses to data models, handling asynchronous network calls.) tasks. Steps are:
 
 - Data Model: The Details class serves as a data model to represent the structure of JSON responses received from the API. Data models are essential for mapping the JSON data to Java objects, making it easier to work with the response data in the application code.
 
